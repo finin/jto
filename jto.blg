@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: jto.aux
+The style file: unsrt.bst
+Database file #1: jto2.bib
+Reallocated field_info (elt_size=4) to 10014 items from 5000.
+You've used 266 entries,
+            1791 wiz_defined-function locations,
+            1702 strings with 60027 characters,
+and the built_in function-call counts, 76957 in all, are:
+= -- 6817
+> -- 4202
+< -- 165
++ -- 1424
+- -- 1158
+* -- 5204
+:= -- 11309
+add.period$ -- 885
+call.type$ -- 266
+change.case$ -- 156
+chr.to.int$ -- 0
+cite$ -- 266
+duplicate$ -- 3753
+empty$ -- 7385
+format.name$ -- 1158
+if$ -- 18159
+int.to.chr$ -- 0
+int.to.str$ -- 266
+missing$ -- 156
+newline$ -- 1194
+num.names$ -- 486
+pop$ -- 1159
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2054
+stack$ -- 0
+substring$ -- 3870
+swap$ -- 1528
+text.length$ -- 165
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 693
+width$ -- 269
+write$ -- 2809

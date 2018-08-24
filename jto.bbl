@@ -1,0 +1,1914 @@
+\begin{thebibliography}{100}
+
+\bibitem{DBLP:journals/tkdd/SeninLWOGBCF18}
+Pavel Senin, Jessica Lin, Xing Wang, Tim Oates, Sunil Gandhi, Arnold~P.
+  Boedihardjo, Crystal Chen, and Susan Frankenstein.
+\newblock Grammarviz 3.0: Interactive discovery of variable-length time series
+  patterns.
+\newblock {\em {TKDD}}, 12(1):10:1--10:28, 2018.
+
+\bibitem{DBLP:conf/pakdd/GandhiOMH18}
+Sunil Gandhi, Tim Oates, Tinoosh Mohsenin, and W.~David Hairston.
+\newblock Denoising time series data using asymmetric generative adversarial
+  networks.
+\newblock In Dinh~Q. Phung, Vincent~S. Tseng, Geoffrey~I. Webb, Bao Ho,
+  Mohadeseh Ganji, and Lida Rashidi, editors, {\em Advances in Knowledge
+  Discovery and Data Mining - 22nd Pacific-Asia Conference, {PAKDD} 2018,
+  Melbourne, VIC, Australia, June 3-6, 2018, Proceedings, Part {III}}, volume
+  10939 of {\em Lecture Notes in Computer Science}, pages 285--296. Springer,
+  2018.
+
+\bibitem{DBLP:journals/taas/BudhrajaWO17}
+Karan~K. Budhraja, Robert~John Winder, and Tim Oates.
+\newblock Feature construction for controlling swarms by visual demonstration.
+\newblock {\em {TAAS}}, 12(2):10:1--10:22, 2017.
+
+\bibitem{DBLP:conf/cec/BudhrajaO17}
+Karan~K. Budhraja and Tim Oates.
+\newblock Neuroevolution-based inverse reinforcement learning.
+\newblock In {\em 2017 {IEEE} Congress on Evolutionary Computation, {CEC} 2017,
+  Donostia, San Sebasti{\'{a}}n, Spain, June 5-8, 2017}, pages 67--76. {IEEE},
+  2017.
+
+\bibitem{DBLP:conf/hri/KrishnaswamyMO17}
+Kavita Krishnaswamy, Srinivas Moorthy, and Tim Oates.
+\newblock Preliminary survey analysis in participatory design: Repositioning,
+  transferring, and personal care robots.
+\newblock In Bilge Mutlu, Manfred Tscheligi, Astrid Weiss, and James~E. Young,
+  editors, {\em Companion of the 2017 {ACM/IEEE} International Conference on
+  Human-Robot Interaction, {HRI} 2017, Vienna, Austria, March 6-9, 2017}, pages
+  171--172. {ACM}, 2017.
+
+\bibitem{DBLP:conf/icdm/BudhrajaO17}
+Karan~Kumar Budhraja and Tim Oates.
+\newblock Dataset selection for controlling swarms by visual demonstration.
+\newblock In Raju Gottumukkala, Xia Ning, Guozhu Dong, Vijay Raghavan, Srinivas
+  Aluru, George Karypis, Lucio Miele, and Xindong Wu, editors, {\em 2017 {IEEE}
+  International Conference on Data Mining Workshops, {ICDM} Workshops 2017, New
+  Orleans, LA, USA, November 18-21, 2017}, pages 932--941. {IEEE} Computer
+  Society, 2017.
+
+\bibitem{DBLP:conf/ijcnn/TilakGO17}
+Neha Tilak, Sunil Gandhi, and Tim Oates.
+\newblock Visual entity linking.
+\newblock In {\em 2017 International Joint Conference on Neural Networks,
+  {IJCNN} 2017, Anchorage, AK, USA, May 14-19, 2017}, pages 665--672. {IEEE},
+  2017.
+
+\bibitem{DBLP:conf/ijcnn/WangYO17}
+Zhiguang Wang, Weizhong Yan, and Tim Oates.
+\newblock Time series classification from scratch with deep neural networks:
+  {A} strong baseline.
+\newblock In {\em 2017 International Joint Conference on Neural Networks,
+  {IJCNN} 2017, Anchorage, AK, USA, May 14-19, 2017}, pages 1578--1585. {IEEE},
+  2017.
+
+\bibitem{DBLP:conf/ijcnn/HaldekarGO17}
+Mandar Haldekar, Ashwinkumar Ganesan, and Tim Oates.
+\newblock Identifying spatial relations in images using convolutional neural
+  networks.
+\newblock In {\em 2017 International Joint Conference on Neural Networks,
+  {IJCNN} 2017, Anchorage, AK, USA, May 14-19, 2017}, pages 3593--3600. {IEEE},
+  2017.
+
+\bibitem{DBLP:conf/ijcnn/KumarO17}
+Arjun Kumar and Tim Oates.
+\newblock Connecting deep neural networks with symbolic knowledge.
+\newblock In {\em 2017 International Joint Conference on Neural Networks,
+  {IJCNN} 2017, Anchorage, AK, USA, May 14-19, 2017}, pages 3601--3608. {IEEE},
+  2017.
+
+\bibitem{DBLP:conf/iscas/JafariGKHOM17}
+Ali Jafari, Sunil Gandhi, Sri~Harsha Konuru, W.~David Hairston, Tim Oates, and
+  Tinoosh Mohsenin.
+\newblock An {EEG} artifact identification embedded system using {ICA} and
+  multi-instance learning.
+\newblock In {\em {IEEE} International Symposium on Circuits and Systems,
+  {ISCAS} 2017, Baltimore, MD, USA, May 28-31, 2017}, pages 1--4. {IEEE}, 2017.
+
+\bibitem{DBLP:conf/petra/KrishnaswamyMO17}
+Kavita Krishnaswamy, Srinivas Moorthy, and Tim Oates.
+\newblock Survey data analysis for repositioning, transferring, and personal
+  care robots.
+\newblock In {\em Proceedings of the 10th International Conference on PErvasive
+  Technologies Related to Assistive Environments, {PETRA} 2017, Island of
+  Rhodes, Greece, June 21-23, 2017}, pages 45--51. {ACM}, 2017.
+
+\bibitem{DBLP:conf/ssd/ChenBJE0SO17}
+Crystal Chen, Arnold~P. Boedihardjo, Brian~S. Jenkins, Charlotte~L. Ellison,
+  Jessica Lin, Pavel Senin, and Tim Oates.
+\newblock {STAVIS} 2.0: Mining spatial trajectories via motifs.
+\newblock In Michael Gertz, Matthias Renz, Xiaofang Zhou, Erik~G. Hoel,
+  Wei{-}Shinn Ku, Agn{\`{e}}s Voisard, Chengyang Zhang, Haiquan Chen, Liang
+  Tang, Yan Huang, Chang{-}Tien Lu, and Siva Ravada, editors, {\em Advances in
+  Spatial and Temporal Databases - 15th International Symposium, {SSTD} 2017,
+  Arlington, VA, USA, August 21-23, 2017, Proceedings}, volume 10411 of {\em
+  Lecture Notes in Computer Science}, pages 433--439. Springer, 2017.
+
+\bibitem{DBLP:journals/corr/HaldekarGO17}
+Mandar Haldekar, Ashwinkumar Ganesan, and Tim Oates.
+\newblock Identifying spatial relations in images using convolutional neural
+  networks.
+\newblock {\em CoRR}, abs/1706.04215, 2017.
+
+\bibitem{DBLP:journals/corr/DateGO17}
+Prutha Date, Ashwinkumar Ganesan, and Tim Oates.
+\newblock Fashioning with networks: Neural style transfer to design clothes.
+\newblock {\em CoRR}, abs/1707.09899, 2017.
+
+\bibitem{DBLP:journals/corr/abs-1708-08430}
+J.~T. Turner, Adam Page, Tinoosh Mohsenin, and Tim Oates.
+\newblock Deep belief networks used on high resolution multichannel
+  electroencephalography data for seizure detection.
+\newblock {\em CoRR}, abs/1708.08430, 2017.
+
+\bibitem{DBLP:journals/corr/abs-1709-04305}
+Zhiguang Wang, Chul Gwon, Tim Oates, and Adam Iezzi.
+\newblock Automated cloud provisioning on {AWS} using deep reinforcement
+  learning.
+\newblock {\em CoRR}, abs/1709.04305, 2017.
+
+\bibitem{DBLP:journals/fuin/EyraudJOP16}
+R{\'{e}}mi Eyraud, Jean{-}Christophe Janodet, Tim Oates, and
+  Fr{\'{e}}d{\'{e}}ric Papadopoulos.
+\newblock Designing and learning substitutable plane graph grammars.
+\newblock {\em Fundam. Inform.}, 146(4):403--430, 2016.
+
+\bibitem{DBLP:journals/uais/KrishnaswamyKO16}
+Kavita Krishnaswamy, Ravi Kuber, and Tim Oates.
+\newblock Developing a limb repositioning robotic interface for persons with
+  severe physical disabilities.
+\newblock {\em Universal Access in the Information Society}, 15(4):609--627,
+  2016.
+
+\bibitem{DBLP:conf/aaai/WangOL16}
+Zhiguang Wang, Tim Oates, and James Lo.
+\newblock Adaptive normalized risk-averting training for deep neural networks.
+\newblock In Dale Schuurmans and Michael~P. Wellman, editors, {\em Proceedings
+  of the Thirtieth {AAAI} Conference on Artificial Intelligence, February
+  12-17, 2016, Phoenix, Arizona, {USA.}}, pages 2201--2207. {AAAI} Press, 2016.
+
+\bibitem{DBLP:conf/edbt/Wang0SOGBCF16}
+Xing Wang, Jessica Lin, Pavel Senin, Tim Oates, Sunil Gandhi, Arnold~P.
+  Boedihardjo, Crystal Chen, and Susan Frankenstein.
+\newblock {RPM:} representative pattern mining for efficient time series
+  classification.
+\newblock In Evaggelia Pitoura, Sofian Maabout, Georgia Koutrika, Am{\'{e}}lie
+  Marian, Letizia Tanca, Ioana Manolescu, and Kostas Stefanidis, editors, {\em
+  Proceedings of the 19th International Conference on Extending Database
+  Technology, {EDBT} 2016, Bordeaux, France, March 15-16, 2016, Bordeaux,
+  France, March 15-16, 2016.}, pages 185--196. OpenProceedings.org, 2016.
+
+\bibitem{DBLP:conf/icdm/TopinBO16}
+Nicholay Topin, Karan~K. Budhraja, and Tim Oates.
+\newblock Feature selection in environments with limited voluntary information
+  sharing.
+\newblock In Carlotta Domeniconi, Francesco Gullo, Francesco Bonchi, Josep
+  Domingo{-}Ferrer, Ricardo~A. Baeza{-}Yates, Zhi{-}Hua Zhou, and Xindong Wu,
+  editors, {\em {IEEE} International Conference on Data Mining Workshops,
+  {ICDM} Workshops 2016, December 12-15, 2016, Barcelona, Spain.}, pages
+  576--583. {IEEE} Computer Society, 2016.
+
+\bibitem{DBLP:conf/iri/ThuraisinghamKH16}
+Bhavani~M. Thuraisingham, Murat Kantarcioglu, Kevin~W. Hamlen, Latifur Khan,
+  Tim Finin, Anupam Joshi, Tim Oates, and Elisa Bertino.
+\newblock A data driven approach for the science of cyber security: Challenges
+  and directions.
+\newblock In {\em 17th {IEEE} International Conference on Information Reuse and
+  Integration, {IRI} 2016, Pittsburgh, PA, USA, July 28-30, 2016}, pages 1--10.
+  {IEEE} Computer Society, 2016.
+
+\bibitem{DBLP:conf/lrec/WilkinsonO16}
+Bryan Wilkinson and Tim Oates.
+\newblock A gold standard for scalar adjectives.
+\newblock In Nicoletta Calzolari, Khalid Choukri, Thierry Declerck, Sara Goggi,
+  Marko Grobelnik, Bente Maegaard, Joseph Mariani, H{\'{e}}l{\`{e}}ne Mazo,
+  Asunci{\'{o}}n Moreno, Jan Odijk, and Stelios Piperidis, editors, {\em
+  Proceedings of the Tenth International Conference on Language Resources and
+  Evaluation {LREC} 2016, Portoro{\v{z}}, Slovenia, May 23-28, 2016.} European
+  Language Resources Association {(ELRA)}, 2016.
+
+\bibitem{DBLP:conf/saso/BudhrajaO16}
+Karan~K. Budhraja and Tim Oates.
+\newblock Controlling swarms by visual demonstration.
+\newblock In Giacomo Cabri, Gauthier Picard, and Niranjan Suri, editors, {\em
+  10th {IEEE} International Conference on Self-Adaptive and Self-Organizing
+  Systems, {SASO} 2016, Augsburg, Germany, September 12-16, 2016}, pages 1--10.
+  {IEEE} Computer Society, 2016.
+
+\bibitem{DBLP:conf/semeval/GaoO16}
+Hang Gao and Tim Oates.
+\newblock {MDSENT} at semeval-2016 task 4: {A} supervised system for message
+  polarity classification.
+\newblock In Steven Bethard, Daniel~M. Cer, Marine Carpuat, David Jurgens,
+  Preslav Nakov, and Torsten Zesch, editors, {\em Proceedings of the 10th
+  International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2016, San
+  Diego, CA, USA, June 16-17, 2016}, pages 139--144. The Association for
+  Computer Linguistics, 2016.
+
+\bibitem{DBLP:journals/corr/BudhrajaO16}
+Karan~Kumar Budhraja and Tim Oates.
+\newblock Neuroevolution-based inverse reinforcement learning.
+\newblock {\em CoRR}, abs/1608.02971, 2016.
+
+\bibitem{DBLP:journals/corr/GanesanOS16}
+Ashwinkumar Ganesan, Tim Oates, and Matt Schmill.
+\newblock Finding representative points in multivariate data using {PCA}.
+\newblock {\em CoRR}, abs/1610.05819, 2016.
+
+\bibitem{DBLP:journals/corr/WangYO16}
+Zhiguang Wang, Weizhong Yan, and Tim Oates.
+\newblock Time series classification from scratch with deep neural networks:
+  {A} strong baseline.
+\newblock {\em CoRR}, abs/1611.06455, 2016.
+
+\bibitem{DBLP:journals/tcas/PageSSAOM15}
+Adam Page, Chris Sagedy, Emily Smith, Nasrin Attaran, Tim Oates, and Tinoosh
+  Mohsenin.
+\newblock A flexible multichannel {EEG} feature extractor and classifier for
+  seizure detection.
+\newblock {\em {IEEE} Trans. on Circuits and Systems}, 62-II(2):109--113, 2015.
+
+\bibitem{DBLP:conf/cikm/GandhiOBC0SFW15}
+Sunil Gandhi, Tim Oates, Arnold~P. Boedihardjo, Crystal Chen, Jessica Lin,
+  Pavel Senin, Susan Frankenstein, and Xing Wang.
+\newblock A generative model for time series discretization based on multiple
+  normal distributions.
+\newblock In Mouna Kacimi, Nicoleta Preda, and Maya Ramanath, editors, {\em
+  Proceedings of the 8th Workshop on Ph.D. Workshop in Information and
+  Knowledge Management, {PIKM} 2015, Melbourne, Australia, October 19, 2015},
+  pages 19--25. {ACM}, 2015.
+
+\bibitem{DBLP:conf/edbt/Senin0WOGBCF15}
+Pavel Senin, Jessica Lin, Xing Wang, Tim Oates, Sunil Gandhi, Arnold~P.
+  Boedihardjo, Crystal Chen, and Susan Frankenstein.
+\newblock Time series anomaly discovery with grammar-based compression.
+\newblock In Gustavo Alonso, Floris Geerts, Lucian Popa, Pablo Barcel{\'{o}},
+  Jens Teubner, Mart{\'{\i}}n Ugarte, Jan~Van den Bussche, and Jan Paredaens,
+  editors, {\em Proceedings of the 18th International Conference on Extending
+  Database Technology, {EDBT} 2015, Brussels, Belgium, March 23-27, 2015.},
+  pages 481--492. OpenProceedings.org, 2015.
+
+\bibitem{DBLP:conf/embc/PagePOM15}
+Adam Page, Siddharth Pramod, Tim Oates, and Tinoosh Mohsenin.
+\newblock An ultra low power feature extraction and classification system for
+  wearable seizure detection.
+\newblock In {\em 37th Annual International Conference of the {IEEE}
+  Engineering in Medicine and Biology Society, {EMBC} 2015, Milan, Italy,
+  August 25-29, 2015}, pages 7111--7114. {IEEE}, 2015.
+
+\bibitem{DBLP:conf/flairs/WangO15}
+Zhiguang Wang and Tim Oates.
+\newblock Pooling sax-bop approaches with boosting to classify multivariate
+  synchronous physiological time series data.
+\newblock In Ingrid Russell and William Eberle, editors, {\em Proceedings of
+  the Twenty-Eighth International Florida Artificial Intelligence Research
+  Society Conference, {FLAIRS} 2015, Hollywood, Florida, USA, May 18-20,
+  2015.}, pages 335--341. {AAAI} Press, 2015.
+
+\bibitem{DBLP:conf/icdm/BudhrajaO15}
+Karan~Kumar Budhraja and Tim Oates.
+\newblock Adversarial feature selection.
+\newblock In {\em {IEEE} International Conference on Data Mining Workshop,
+  {ICDMW} 2015, Atlantic City, NJ, USA, November 14-17, 2015}, pages 288--294.
+  {IEEE} Computer Society, 2015.
+
+\bibitem{DBLP:conf/ijcai/WangO15}
+Zhiguang Wang and Tim Oates.
+\newblock Imaging time-series to improve classification and imputation.
+\newblock In Qiang Yang and Michael Wooldridge, editors, {\em Proceedings of
+  the Twenty-Fourth International Joint Conference on Artificial Intelligence,
+  {IJCAI} 2015, Buenos Aires, Argentina, July 25-31, 2015}, pages 3939--3945.
+  {AAAI} Press, 2015.
+
+\bibitem{DBLP:journals/corr/WangO15}
+Zhiguang Wang and Tim Oates.
+\newblock Imaging time-series to improve classification and imputation.
+\newblock {\em CoRR}, abs/1506.00327, 2015.
+
+\bibitem{DBLP:journals/corr/WangOL15}
+Zhiguang Wang, Tim Oates, and James Lo.
+\newblock Adaptive normalized risk-averting training for deep neural networks.
+\newblock {\em CoRR}, abs/1506.02690, 2015.
+
+\bibitem{DBLP:journals/corr/WangO15a}
+Zhiguang Wang and Tim Oates.
+\newblock Spatially encoding temporal correlations to classify temporal data
+  using convolutional neural networks.
+\newblock {\em CoRR}, abs/1509.07481, 2015.
+
+\bibitem{DBLP:journals/isf/ZhuO14}
+Xianshu Zhu and Tim Oates.
+\newblock Finding story chains in newswire articles using random walks.
+\newblock {\em Information Systems Frontiers}, 16(5):753--769, 2014.
+
+\bibitem{DBLP:journals/ml/HeinzHO14}
+Jeffrey Heinz, Colin de~la Higuera, and Tim Oates.
+\newblock Introduction to the special issue on grammatical inference.
+\newblock {\em Machine Learning}, 96(1-2):1--3, 2014.
+
+\bibitem{DBLP:conf/flairs/PageTMO14}
+Adam Page, J.~T. Turner, Tinoosh Mohsenin, and Tim Oates.
+\newblock Comparing raw data and feature extraction for seizure detection with
+  deep learning methods.
+\newblock In William Eberle and Chutima Boonthum{-}Denecke, editors, {\em
+  Proceedings of the Twenty-Seventh International Florida Artificial
+  Intelligence Research Society Conference, {FLAIRS} 2014, Pensacola Beach,
+  Florida, USA, May 21-23, 2014.} {AAAI} Press, 2014.
+
+\bibitem{DBLP:conf/icdm/TsaiKPO14}
+Terry~H. Tsai, Niels Kasch, Craig Pfeifer, and Tim Oates.
+\newblock Text mining for hypotheses and results in translational medicine
+  studies.
+\newblock In Zhi{-}Hua Zhou, Wei Wang, Ravi Kumar, Hannu Toivonen, Jian Pei,
+  Joshua~Zhexue Huang, and Xindong Wu, editors, {\em 2014 {IEEE} International
+  Conference on Data Mining Workshops, {ICDM} Workshops 2014, Shenzhen, China,
+  December 14, 2014}, pages 127--132. {IEEE} Computer Society, 2014.
+
+\bibitem{DBLP:conf/icmla/DeivachilaiO14}
+Rakesh Deivachilai and Tim Oates.
+\newblock On-line signature verification using symbolic aggregate approximation
+  {(SAX)} and sequential mining optimization {(SMO)}.
+\newblock In {\em 13th International Conference on Machine Learning and
+  Applications, {ICMLA} 2014, Detroit, MI, USA, December 3-6, 2014}, pages
+  195--200. {IEEE}, 2014.
+
+\bibitem{DBLP:conf/icmla/WangO14}
+Zhiguang Wang and Tim Oates.
+\newblock Time warping symbolic aggregation approximation with bag-of-patterns
+  representation for time series classification.
+\newblock In {\em 13th International Conference on Machine Learning and
+  Applications, {ICMLA} 2014, Detroit, MI, USA, December 3-6, 2014}, pages
+  270--275. {IEEE}, 2014.
+
+\bibitem{DBLP:conf/pkdd/Senin0WOGBCFL14}
+Pavel Senin, Jessica Lin, Xing Wang, Tim Oates, Sunil Gandhi, Arnold~P.
+  Boedihardjo, Crystal Chen, Susan Frankenstein, and Manfred Lerner.
+\newblock Grammarviz 2.0: {A} tool for grammar-based pattern discovery in time
+  series.
+\newblock In Toon Calders, Floriana Esposito, Eyke H{\"{u}}llermeier, and Rosa
+  Meo, editors, {\em Machine Learning and Knowledge Discovery in Databases -
+  European Conference, {ECML} {PKDD} 2014, Nancy, France, September 15-19,
+  2014. Proceedings, Part {III}}, volume 8726 of {\em Lecture Notes in Computer
+  Science}, pages 468--472. Springer, 2014.
+
+\bibitem{DBLP:conf/cikm/OatesB0CFG13}
+Tim Oates, Arnold~P. Boedihardjo, Jessica Lin, Crystal Chen, Susan
+  Frankenstein, and Sunil Gandhi.
+\newblock Motif discovery in spatial trajectories using grammar inference.
+\newblock In Qi~He, Arun Iyengar, Wolfgang Nejdl, Jian Pei, and Rajeev Rastogi,
+  editors, {\em 22nd {ACM} International Conference on Information and
+  Knowledge Management, CIKM'13, San Francisco, CA, USA, October 27 - November
+  1, 2013}, pages 1465--1468. {ACM}, 2013.
+
+\bibitem{DBLP:conf/icmla/RosebrockOC13}
+Adrian Rosebrock, Tim Oates, and Jesus~J. Caban.
+\newblock Ecosembles: {A} rapidly deployable image classification system using
+  feature-views.
+\newblock In {\em 12th International Conference on Machine Learning and
+  Applications, {ICMLA} 2013, Miami, FL, USA, December 4-7, 2013, Volume 1},
+  pages 1--8. {IEEE}, 2013.
+
+\bibitem{DBLP:conf/ictai/DuCPSO13}
+Tongchun Du, Michael~T. Cox, Don Perlis, Jared Shamwell, and Tim Oates.
+\newblock From robots to reinforcement learning.
+\newblock In {\em 25th {IEEE} International Conference on Tools with Artificial
+  Intelligence, {ICTAI} 2013, Herndon, VA, USA, November 4-6, 2013}, pages
+  540--545. {IEEE} Computer Society, 2013.
+
+\bibitem{DBLP:conf/naacl/McNameeMFOLXO13}
+Paul McNamee, James Mayfield, Tim Finin, Tim Oates, Dawn~J. Lawrie, Tan Xu, and
+  Douglas~W. Oard.
+\newblock {KELVIN:} a tool for automated knowledge base construction.
+\newblock In Lucy Vanderwende, Hal~Daum{\'{e}} III, and Katrin Kirchhoff,
+  editors, {\em Human Language Technologies: Conference of the North American
+  Chapter of the Association of Computational Linguistics, Proceedings, June
+  9-14, 2013, Westin Peachtree Plaza Hotel, Atlanta, Georgia, {USA}}, pages
+  32--35. The Association for Computational Linguistics, 2013.
+
+\bibitem{DBLP:conf/riao/ZhuO13}
+Xianshu Zhu and Tim Oates.
+\newblock Finding news story chains based on multi-dimensional event profiles.
+\newblock In Jo{\~{a}}o Ferreira, Jo{\~{a}}o Magalh{\~{a}}es, and P{\'{a}}vel
+  Calado, editors, {\em Open research Areas in Information Retrieval, {OAIR}
+  '13, Lisbon, Portugal, May 15-17, 2013}, pages 157--164. {ACM}, 2013.
+
+\bibitem{DBLP:journals/corr/abs-1301-0567}
+Sarah Finney, Natalia Gardiol, Leslie~Pack Kaelbling, and Tim Oates.
+\newblock The thing that we tried didn't work very well : Deictic
+  representation in reinforcement learning.
+\newblock {\em CoRR}, abs/1301.0567, 2013.
+
+\bibitem{DBLP:journals/corr/MaglioccaEOS13}
+Nicholas~R. Magliocca, Erle~C. Ellis, Tim Oates, and Matthew~D. Schmill.
+\newblock Contextualizing the global relevance of local land change
+  observations.
+\newblock {\em CoRR}, abs/1307.6889, 2013.
+
+\bibitem{DBLP:journals/ibmrd/OrdonezOLHHFL12}
+Patricia Ord{\'{o}}{\~{n}}ez, Tim Oates, Michael Lombardi, Genaro
+  Hern{\'{a}}ndez, Kathryn~W. Holmes, Jim Fackler, and Christoph~U. Lehmann.
+\newblock Visualization of multivariate time-series data in a neonatal {ICU}.
+\newblock {\em {IBM} Journal of Research and Development}, 56(5):7, 2012.
+
+\bibitem{DBLP:conf/icb/ChhayaO12}
+Niyati Chhaya and Tim Oates.
+\newblock Joint inference of soft biometric features.
+\newblock In Anil~K. Jain, Arun Ross, Salil Prabhakar, and Jaihie Kim, editors,
+  {\em 5th {IAPR} International Conference on Biometrics, {ICB} 2012, New
+  Delhi, India, March 29 - April 1, 2012}, pages 466--471. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icdl-epirob/BhargavaCOOPPS12}
+Preeti Bhargava, Michael~T. Cox, Tim Oates, Uran Oh, Matthew Paisner, Donald
+  Perlis, and Jared Shamwell.
+\newblock The robot baby and massive metacognition: Future vision.
+\newblock In {\em 2012 {IEEE} International Conference on Development and
+  Learning and Epigenetic Robotics, {ICDL-EPIROB} 2012, San Diego, CA, USA,
+  November 7-9, 2012}, pages 1--2. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icdl-epirob/ShamwellOBCOPP12}
+Jared Shamwell, Tim Oates, Preeti Bhargava, Michael~T. Cox, Uran Oh, Matthew
+  Paisner, and Donald Perlis.
+\newblock The robot baby and massive metacognition: Early steps via growing
+  neural gas.
+\newblock In {\em 2012 {IEEE} International Conference on Development and
+  Learning and Epigenetic Robotics, {ICDL-EPIROB} 2012, San Diego, CA, USA,
+  November 7-9, 2012}, pages 1--2. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icmla/OatesMSASH12}
+Tim Oates, Colin~F. Mackenzie, Lynn~G. Stansbury, Bizhan Aarabi, Deborah~M.
+  Stein, and Peter~Fu{-}Ming Hu.
+\newblock Predicting patient outcomes from a few hours of high resolution vital
+  signs data.
+\newblock In {\em 11th International Conference on Machine Learning and
+  Applications, ICMLA, Boca Raton, FL, USA, December 12-15, 2012. Volume 2},
+  pages 192--197. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icmla/OatesMSSDAH12}
+Tim Oates, Colin~F. Mackenzie, Deborah~M. Stein, Lynn~G. Stansbury, Joseph
+  Dubose, Bizhan Aarabi, and Peter~Fu{-}Ming Hu.
+\newblock Exploiting representational diversity for time series classification.
+\newblock In {\em 11th International Conference on Machine Learning and
+  Applications, ICMLA, Boca Raton, FL, USA, December 12-15, 2012. Volume 2},
+  pages 538--544. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/incdm/KaschO12}
+Niels Kasch and Tim Oates.
+\newblock Commonsense knowledge in weblogs: Mining script-like structures from
+  the web.
+\newblock In Petra Perner, editor, {\em Advances in Data Mining. 12th
+  Industrial Conference, {ICDM} 2012, Berlin, Germany, July 2012, Poster and
+  Industry Proceedings}, pages 1--15. IBaI Publishing, 2012.
+
+\bibitem{DBLP:conf/incdm/KaschO12a}
+Niels Kasch and Tim Oates.
+\newblock Commonsense knowledge in weblogs: Mining script-like structures from
+  the web.
+\newblock In Isabelle Bichindaritz, Petra Perner, Georg Ru{\ss}, and Rainer
+  Schmidt, editors, {\em Advances in Data Mining, 12th Industrial Conference,
+  {ICDM} 2012, Berlin, Germany, July 2012, Workshop Proceedings, Workshop on
+  Case-Based Reasoning {CBR-MD} 2012, Workshop on Data Mining in Agriculture
+  {DMA} 2012, Workshop on Data Mining in Life Sciences {DMLS} 2012, Workshop on
+  Data Mining in Marketing {DMM} 2012}, pages 31--45. IBaI Publishing, 2012.
+
+\bibitem{DBLP:conf/iri/ZhuO12}
+Xianshu Zhu and Tim Oates.
+\newblock Finding story chains in newswire articles.
+\newblock In Chengcui Zhang, James Joshi, Elisa Bertino, and Bhavani~M.
+  Thuraisingham, editors, {\em {IEEE} 13th International Conference on
+  Information Reuse {\&} Integration, {IRI} 2012, Las Vegas, NV, USA, August
+  8-10, 2012}, pages 93--100. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/naacl/StoyanovMXOLOF12}
+Veselin Stoyanov, James Mayfield, Tan Xu, Douglas~W. Oard, Dawn~J. Lawrie, Tim
+  Oates, and Tim Finin.
+\newblock A context-aware approach to entity linking.
+\newblock In James Fan, Raphael Hoffman, Aditya Kalyanpur, Sebastian Riedel,
+  Fabian~M. Suchanek, and Partha~Pratim Talukdar, editors, {\em Proceedings of
+  the Joint Workshop on Automatic Knowledge Base Construction and Web-scale
+  Knowledge Extraction, AKBC-WEKEX@NAACL-HLT 2012, Montr{\`{e}}al, Canada, June
+  7-8, 2012}, pages 62--67. Association for Computational Linguistics, 2012.
+
+\bibitem{DBLP:conf/sdm/LiLO12}
+Yuan Li, Jessica Lin, and Tim Oates.
+\newblock Visualizing variable-length time series motifs.
+\newblock In {\em Proceedings of the Twelfth {SIAM} International Conference on
+  Data Mining, Anaheim, California, USA, April 26-28, 2012.}, pages 895--906.
+  {SIAM} / Omnipress, 2012.
+
+\bibitem{DBLP:journals/jmlr/HeinzHO12}
+Jeffrey Heinz, Colin de~la Higuera, and Tim Oates.
+\newblock Preface.
+\newblock In Jeffrey Heinz, Colin de~la Higuera, and Tim Oates, editors, {\em
+  Proceedings of the Eleventh International Conference on Grammatical
+  Inference, {ICGI} 2012, University of Maryland, College Park, USA, September
+  5-8, 2012}, volume~21 of {\em {JMLR} Proceedings}, pages 1--3. JMLR.org,
+  2012.
+
+\bibitem{DBLP:journals/jmlr/EyraudJO12}
+R{\'{e}}mi Eyraud, Jean{-}Christophe Janodet, and Tim Oates.
+\newblock Learning substitutable binary plane graph grammars.
+\newblock In Jeffrey Heinz, Colin de~la Higuera, and Tim Oates, editors, {\em
+  Proceedings of the Eleventh International Conference on Grammatical
+  Inference, {ICGI} 2012, University of Maryland, College Park, USA, September
+  5-8, 2012}, volume~21 of {\em {JMLR} Proceedings}, pages 114--128. JMLR.org,
+  2012.
+
+\bibitem{DBLP:conf/icgi/2012}
+Jeffrey Heinz, Colin de~la Higuera, and Tim Oates, editors.
+\newblock {\em Proceedings of the Eleventh International Conference on
+  Grammatical Inference, {ICGI} 2012, University of Maryland, College Park,
+  USA, September 5-8, 2012}, volume~21 of {\em {JMLR} Proceedings}. JMLR.org,
+  2012.
+
+\bibitem{DBLP:conf/tac/McNameeSMFOXOL12}
+Paul McNamee, Veselin Stoyanov, James Mayfield, Tim Finin, Tim Oates, Tan Xu,
+  Douglas~W. Oard, and Dawn~J. Lawrie.
+\newblock {HLTCOE} participation at {TAC} 2012: Entity linking and cold start
+  knowledge base construction.
+\newblock In {\em Proceedings of the Fifth Text Analysis Conference, {TAC}
+  2012, Gaithersburg, Maryland, USA, November 5-6, 2012}. {NIST}, 2012.
+
+\bibitem{DBLP:journals/jr/RayO11}
+Soumi Ray and Tim Oates.
+\newblock Discovering and characterizing hidden variables using a novel neural
+  network architecture: Lo-net.
+\newblock {\em J. Robotics}, 2011:193146:1--193146:16, 2011.
+
+\bibitem{DBLP:conf/aaaifs/CoxOP11}
+Michael~T. Cox, Tim Oates, and Donald Perlis.
+\newblock Toward an integrated metacognitive architecture.
+\newblock In {\em Advances in Cognitive Systems, Papers from the 2011 {AAAI}
+  Fall Symposium, Arlington, Virginia, USA, November 4-6, 2011}, volume
+  {FS-11-01} of {\em {AAAI} Technical Report}. {AAAI}, 2011.
+
+\bibitem{DBLP:conf/iat/ArmstrongO11}
+Tom Armstrong and Tim Oates.
+\newblock An architecture for bootstrapping lexical semantics and grammatical
+  structures.
+\newblock In Jomi~Fred H{\"{u}}bner, Jean{-}Marc Petit, and Einoshin Suzuki,
+  editors, {\em Proceedings of the 2011 {IEEE/WIC/ACM} International Joint
+  Conference on Web Intelligence and Intelligent Agent Technology - Workshops,
+  {WI-IAT} 2011, Campus Scientifique de la Doua, Lyon, France, August 22-27,
+  2011}, pages 155--158. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/icdm/OrdonezAOF11}
+Patricia Ord{\'{o}}{\~{n}}ez, Tom Armstrong, Tim Oates, and Jim Fackler.
+\newblock Using modified multivariate bag-of-words models to classify
+  physiological data.
+\newblock In Myra Spiliopoulou, Haixun Wang, Diane~J. Cook, Jian Pei, Wei Wang,
+  Osmar~R. Za{\"{\i}}ane, and Xindong Wu, editors, {\em Data Mining Workshops
+  (ICDMW), 2011 {IEEE} 11th International Conference on, Vancouver, BC, Canada,
+  December 11, 2011}, pages 534--539. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/icmla/OrdonezAOF11}
+Patricia Ord{\'{o}}{\~{n}}ez, Tom Armstrong, Tim Oates, and Jim Fackler.
+\newblock Classification of patients using novel multivariate time series
+  representations of physiological data.
+\newblock In Xue{-}wen Chen, Tharam~S. Dillon, Hisao Ishibuchi, Jian Pei,
+  Haixun Wang, and M.~Arif Wani, editors, {\em 10th International Conference on
+  Machine Learning and Applications and Workshops, {ICMLA} 2011, Honolulu,
+  Hawaii, USA, December 18-21, 2011. Volume 2: Special Sessions and Workshop},
+  pages 172--179. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/icmla/RayO11}
+Soumi Ray and Tim Oates.
+\newblock Improving the discovery and characterization of hidden variables by
+  regularizing the lo-net.
+\newblock In Xue{-}wen Chen, Tharam~S. Dillon, Hisao Ishibuchi, Jian Pei,
+  Haixun Wang, and M.~Arif Wani, editors, {\em 10th International Conference on
+  Machine Learning and Applications and Workshops, {ICMLA} 2011, Honolulu,
+  Hawaii, USA, December 18-21, 2011. Volume 1: Main Conference}, pages
+  442--447. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/ictai/SchmillO11}
+Matthew~D. Schmill and Tim Oates.
+\newblock Managing uncertainty in text-to-sketch tracking problems.
+\newblock In {\em {IEEE} 23rd International Conference on Tools with Artificial
+  Intelligence, {ICTAI} 2011, Boca Raton, FL, USA, November 7-9, 2011}, pages
+  430--437. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/petra/KrishnaswamySO11}
+Kavita Krishnaswamy, Jennifer Sleeman, and Tim Oates.
+\newblock Real-time path planning for a robotic arm.
+\newblock In Margrit Betke, Ilias Maglogiannis, and Grammati~E. Pantziou,
+  editors, {\em {PETRA} 2011, The 4th International Conference on PErvasive
+  Technologies Related to Assistive Environments, Crete, Greece, May 25-27,
+  2011}, page~11. {ACM}, 2011.
+
+\bibitem{DBLP:conf/visapp/ChhayaO11}
+Niyati Chhaya and Tim Oates.
+\newblock Robust face detection in patient triage images.
+\newblock In Leonid Mestetskiy and Jos{\'{e}} Braz, editors, {\em {VISAPP} 2011
+  - Proceedings of the Sixth International Conference on Computer Vision Theory
+  and Applications, Vilamoura, Algarve, Portugal, 5-7 March, 2011}, pages
+  326--333. SciTePress, 2011.
+
+\bibitem{DBLP:conf/aaai/JosyulaDMSAOSP10}
+Darsana~P. Josyula, Bette~J. Donahue, Matthew McCaslin, Michelle Snowden,
+  Michael~L. Anderson, Tim Oates, Matthew~D. Schmill, and Donald Perlis.
+\newblock Metacognition for detecting and resolving conflicts in operational
+  policies.
+\newblock In {\em Metacognition for Robust Social Systems, Papers from the 2010
+  {AAAI} Workshop, Atlanta, Georgia, USA, July 11, 2010}, volume {WS-10-04} of
+  {\em {AAAI} Workshops}. {AAAI}, 2010.
+
+\bibitem{DBLP:conf/aaaifs/ShahriDFWPSOJA10}
+Hamid~Haidarian Shahri, Wikum Dinalankara, Scott Fults, Shomir Wilson, Donald
+  Perlis, Matt Schmill, Tim Oates, Darsana~P. Josyula, and Michael~L. Anderson.
+\newblock The metacognitive loop: An architecture for building robust
+  intelligent systems.
+\newblock In {\em Commonsense Knowledge, Papers from the 2010 {AAAI} Fall
+  Symposium, Arlington, Virginia, USA, November 11-13, 2010}, volume {FS-10-02}
+  of {\em {AAAI} Technical Report}. {AAAI}, 2010.
+
+\bibitem{DBLP:conf/emnlp/DredzeOP10}
+Mark Dredze, Tim Oates, and Christine~D. Piatko.
+\newblock We're not in kansas anymore: Detecting domain changes in streams.
+\newblock In {\em Proceedings of the 2010 Conference on Empirical Methods in
+  Natural Language Processing, {EMNLP} 2010, 9-11 October 2010, {MIT} Stata
+  Center, Massachusetts, USA, {A} meeting of SIGDAT, a Special Interest Group
+  of the {ACL}}, pages 585--595. {ACL}, 2010.
+
+\bibitem{DBLP:conf/icgi/JonesO10}
+Joshua Jones and Tim Oates.
+\newblock Learning deterministic finite automata from interleaved strings.
+\newblock In Jos{\'{e}}~M. Sempere and Pedro Garc{\'{\i}}a, editors, {\em
+  Grammatical Inference: Theoretical Results and Applications, 10th
+  International Colloquium, {ICGI} 2010, Valencia, Spain, September 13-16,
+  2010. Proceedings}, volume 6339 of {\em Lecture Notes in Computer Science},
+  pages 80--93. Springer, 2010.
+
+\bibitem{DBLP:conf/icmla/RayO10}
+Soumi Ray and Tim Oates.
+\newblock Discovering and characterizing hidden variables in streaming
+  multivariate time series.
+\newblock In Sorin Draghici, Taghi~M. Khoshgoftaar, Vasile Palade, Witold
+  Pedrycz, M.~Arif Wani, and Xingquan Zhu, editors, {\em The Ninth
+  International Conference on Machine Learning and Applications, {ICMLA} 2010,
+  Washington, DC, USA, 12-14 December 2010}, pages 913--916. {IEEE} Computer
+  Society, 2010.
+
+\bibitem{DBLP:conf/lcn/SapreYO10}
+Namita Sapre, Mohamed~F. Younis, and Tim Oates.
+\newblock Energy efficient node engagement strategies for achieving data
+  fidelity in wireless sensor networks.
+\newblock In {\em The 35th Annual {IEEE} Conference on Local Computer Networks,
+  {LCN} 2010, 10-14 October 2010, Denver, Colorado, USA, Proceedings}, pages
+  723--729. {IEEE} Computer Society, 2010.
+
+\bibitem{DBLP:conf/sdm/MukherjeeO10}
+Sourav Mukherjee and Tim Oates.
+\newblock Inferring probability distributions of graph size and node degree
+  from stochastic graph grammars.
+\newblock In {\em Proceedings of the {SIAM} International Conference on Data
+  Mining, {SDM} 2010, April 29 - May 1, 2010, Columbus, Ohio, {USA}}, pages
+  490--501. {SIAM}, 2010.
+
+\bibitem{DBLP:journals/aim/BaoBCDGKLMNNORSSSTTW09}
+Jie Bao, Uldis Bojars, Tanzeem Choudhury, Li~Ding, Mark Greaves, Ashish Kapoor,
+  Sandy Louchart, Manish Mehta, Bernhard Nebel, Sergei Nirenburg, Tim Oates,
+  David~L. Roberts, Antonio Sanfilippo, Nenad Stojanovic, Kristen Stubbs,
+  Andrea~Lockerd Thomaz, Katherine~M. Tsui, and Stefan W{\"{o}}lfl.
+\newblock Reports of the {AAAI} 2009 spring symposia.
+\newblock {\em {AI} Magazine}, 30(3):89--95, 2009.
+
+\bibitem{DBLP:conf/aaaiss/NirenburgO09}
+Sergei Nirenburg and Tim Oates.
+\newblock Organizing committee.
+\newblock In {\em Learning by Reading and Learning to Read, Papers from the
+  2009 {AAAI} Spring Symposium, Technical Report SS-09-07, Stanford,
+  California, USA, March 23-25, 2009}. {AAAI}, 2009.
+
+\bibitem{DBLP:conf/aaaiss/NirenburgO09a}
+Sergei Nirenburg and Tim Oates.
+\newblock Preface.
+\newblock In {\em Learning by Reading and Learning to Read, Papers from the
+  2009 {AAAI} Spring Symposium, Technical Report SS-09-07, Stanford,
+  California, USA, March 23-25, 2009}. {AAAI}, 2009.
+
+\bibitem{DBLP:conf/cikm/ChinavleKOF09}
+Deepak Chinavle, Pranam Kolari, Tim Oates, and Tim Finin.
+\newblock Ensembles in adversarial classification for spam.
+\newblock In David~Wai{-}Lok Cheung, Il{-}Yeol Song, Wesley~W. Chu, Xiaohua Hu,
+  and Jimmy~J. Lin, editors, {\em Proceedings of the 18th {ACM} Conference on
+  Information and Knowledge Management, {CIKM} 2009, Hong Kong, China, November
+  2-6, 2009}, pages 2015--2018. {ACM}, 2009.
+
+\bibitem{DBLP:conf/ijcai/YamanOB09}
+Fusun Yaman, Tim Oates, and Mark~H. Burstein.
+\newblock A context driven approach for workflow mining.
+\newblock In Craig Boutilier, editor, {\em {IJCAI} 2009, Proceedings of the
+  21st International Joint Conference on Artificial Intelligence, Pasadena,
+  California, USA, July 11-17, 2009}, pages 1798--1803, 2009.
+
+\bibitem{DBLP:journals/aai/HigueraOZ08}
+Colin de~la Higuera, Tim Oates, and Menno van Zaanen.
+\newblock Introduction: Special issue on applications of grammatical inference.
+\newblock {\em Applied Artificial Intelligence}, 22(1{\&}2):1--3, 2008.
+
+\bibitem{DBLP:journals/aim/BallACMNCGLLMMMORTTU08}
+Jerry Ball, Chris Arney, Samuel~G. Collins, Mitchell Marcus, Sergei Nirenburg,
+  Antonio Chella, Kai Goebel, Jason~H. Li, Margaret Lyell, Brian Magerko,
+  Riccardo Manzotti, Clayton~T. Morrison, Tim Oates, Mark Riedl, Goran
+  Trajkovski, Walt Truszkowski, and N.~Serdar Uckun.
+\newblock {AAAI} fall symposium reports.
+\newblock {\em {AI} Magazine}, 29(1):99--104, 2008.
+
+\bibitem{DBLP:journals/aim/AndersonFJOPWW08}
+Michael~L. Anderson, Scott Fults, Darsana~P. Josyula, Tim Oates, Donald Perlis,
+  Shomir Wilson, and Dean Wright.
+\newblock A self-help guide for autonomous systems.
+\newblock {\em {AI} Magazine}, 29(2):67--73, 2008.
+
+\bibitem{DBLP:journals/aim/Oates08}
+Tim Oates.
+\newblock A too-clever ranking method.
+\newblock {\em {AI} Magazine}, 29(2):74--76, 2008.
+
+\bibitem{DBLP:conf/aaai/ArmstrongO08}
+Tom Armstrong and Tim Oates.
+\newblock Lexical and grammatical inference.
+\newblock In Dieter Fox and Carla~P. Gomes, editors, {\em Proceedings of the
+  Twenty-Third {AAAI} Conference on Artificial Intelligence, {AAAI} 2008,
+  Chicago, Illinois, USA, July 13-17, 2008}, pages 1772--1773. {AAAI} Press,
+  2008.
+
+\bibitem{DBLP:conf/agi/PickettMO08}
+Marc Pickett, Don Miner, and Tim Oates.
+\newblock Essential phenomena of general intelligence.
+\newblock In Pei Wang, Ben Goertzel, and Stan Franklin, editors, {\em
+  Artificial General Intelligence 2008, Proceedings of the First {AGI}
+  Conference, {AGI} 2008, March 1-3, 2008, University of Memphis, Memphis, TN,
+  {USA}}, volume 171 of {\em Frontiers in Artificial Intelligence and
+  Applications}, pages 268--274. {IOS} Press, 2008.
+
+\bibitem{DBLP:conf/flairs/ArmstrongO08}
+Tom Armstrong and Tim Oates.
+\newblock Learning in the lexical-grammatical interface.
+\newblock In David Wilson and H.~Chad Lane, editors, {\em Proceedings of the
+  Twenty-First International Florida Artificial Intelligence Research Society
+  Conference, May 15-17, 2008, Coconut Grove, Florida, {USA}}, pages 23--28.
+  {AAAI} Press, 2008.
+
+\bibitem{DBLP:conf/icgi/ArmstrongO08}
+Tom Armstrong and Tim Oates.
+\newblock Which came first, the grammar or the lexicon?
+\newblock In Alexander Clark, Fran{\c{c}}ois Coste, and Laurent Miclet,
+  editors, {\em Grammatical Inference: Algorithms and Applications, 9th
+  International Colloquium, {ICGI} 2008, Saint-Malo, France, September 22-24,
+  2008, Proceedings}, volume 5278 of {\em Lecture Notes in Computer Science},
+  pages 283--285. Springer, 2008.
+
+\bibitem{DBLP:conf/icgi/MukherjeeO08}
+Sourav Mukherjee and Tim Oates.
+\newblock Estimating graph parameters using graph grammars.
+\newblock In Alexander Clark, Fran{\c{c}}ois Coste, and Laurent Miclet,
+  editors, {\em Grammatical Inference: Algorithms and Applications, 9th
+  International Colloquium, {ICGI} 2008, Saint-Malo, France, September 22-24,
+  2008, Proceedings}, volume 5278 of {\em Lecture Notes in Computer Science},
+  pages 292--294. Springer, 2008.
+
+\bibitem{DBLP:journals/aim/AndersonO07}
+Michael~L. Anderson and Tim Oates.
+\newblock A review of recent research in metareasoning and metalearning.
+\newblock {\em {AI} Magazine}, 28(1):12--16, 2007.
+
+\bibitem{DBLP:conf/aaai/BhatiaOXH07}
+Beenish Bhatia, Tim Oates, Yan Xiao, and Peter~Fu{-}Ming Hu.
+\newblock Real-time identification of operating room state from video.
+\newblock In {\em Proceedings of the Twenty-Second {AAAI} Conference on
+  Artificial Intelligence, July 22-26, 2007, Vancouver, British Columbia,
+  Canada}, pages 1761--1766. {AAAI} Press, 2007.
+
+\bibitem{DBLP:conf/aaai/ArmstrongO07}
+Tom Armstrong and Tim Oates.
+\newblock {UNDERTOW:} multi-level segmentation of real-valued time series.
+\newblock In {\em Proceedings of the Twenty-Second {AAAI} Conference on
+  Artificial Intelligence, July 22-26, 2007, Vancouver, British Columbia,
+  Canada}, pages 1842--1843. {AAAI} Press, 2007.
+
+\bibitem{DBLP:conf/aaai/PickettO07}
+Marc Pickett and Tim Oates.
+\newblock The marchitecture: {A} cognitive architecture for a robot baby.
+\newblock In {\em Proceedings of the Twenty-Second {AAAI} Conference on
+  Artificial Intelligence, July 22-26, 2007, Vancouver, British Columbia,
+  Canada}, pages 1896--1897. {AAAI} Press, 2007.
+
+\bibitem{DBLP:conf/aaaiss/AndersonSOPJWW07}
+Michael~L. Anderson, Matthew~D. Schmill, Tim Oates, Donald Perlis, Darsana~P.
+  Josyula, Dean Wright, and Shomir Wilson.
+\newblock Toward domain-neutral human-level metacognition.
+\newblock In {\em Logical Formalizations of Commonsense Reasoning, Papers from
+  the 2007 {AAAI} Spring Symposium, Technical Report SS-07-05, Stanford,
+  California, USA, March 26-28, 2007}, pages 1--6. {AAAI}, 2007.
+
+\bibitem{DBLP:conf/icwsm/JavaKFJO07}
+Akshay Java, Pranam Kolari, Tim Finin, Anupam Joshi, and Tim Oates.
+\newblock Feeds that matter: {A} study of bloglines subscriptions.
+\newblock In Natalie~S. Glance, Nicolas Nicolov, Eytan Adar, Matthew Hurst,
+  Mark Liberman, and Franco Salvetti, editors, {\em Proceedings of the First
+  International Conference on Weblogs and Social Media, {ICWSM} 2007, Boulder,
+  Colorado, USA, March 26-28, 2007}, 2007.
+
+\bibitem{DBLP:conf/ijcai/DornbushJSO07}
+Sandor Dornbush, Anupam Joshi, Zary Segall, and Tim Oates.
+\newblock A human activity aware learning mobile music player.
+\newblock In Juan~Carlos Augusto and Daniel Shapiro, editors, {\em Advances in
+  Ambient Intelligence [best papers from AITamI@IJCAI 2007, Hyderabad, India,
+  January 2007].}, volume 164 of {\em Frontiers in Artificial Intelligence and
+  Applications}, pages 107--122. {IOS} Press, 2007.
+
+\bibitem{DBLP:conf/ijcai/GuptaO07}
+Aarti Gupta and Tim Oates.
+\newblock Using ontologies and the web to learn lexical semantics.
+\newblock In Manuela~M. Veloso, editor, {\em {IJCAI} 2007, Proceedings of the
+  20th International Joint Conference on Artificial Intelligence, Hyderabad,
+  India, January 6-12, 2007}, pages 1618--1623, 2007.
+
+\bibitem{DBLP:conf/semco/NirenburgOE07}
+Sergei Nirenburg, Tim Oates, and Jesse English.
+\newblock Learning by reading by learning to read.
+\newblock In {\em Proceedings of the First {IEEE} International Conference on
+  Semantic Computing {(ICSC} 2007), September 17-19, 2007, Irvine, California,
+  {USA}}, pages 694--701. {IEEE} Computer Society, 2007.
+
+\bibitem{DBLP:journals/ai/OatesC06}
+Tim Oates and Waiyian Chong.
+\newblock Marcus hutter, universal artificial intelligence, springer {(2004)}.
+\newblock {\em Artif. Intell.}, 170(18):1222--1226, 2006.
+
+\bibitem{DBLP:journals/jetai/AndersonOCP06}
+Michael~L. Anderson, Tim Oates, Waiyian Chong, and Donald Perlis.
+\newblock The metacognitive loop {I:} enhancing reinforcement learning with
+  metacognitive monitoring and control for improved perturbation
+  tolerance{\(\vert\)}{\(\vert\)}.
+\newblock {\em J. Exp. Theor. Artif. Intell.}, 18(3):387--411, 2006.
+
+\bibitem{DBLP:conf/aaai/KolariJFOJ06}
+Pranam Kolari, Akshay Java, Tim Finin, Tim Oates, and Anupam Joshi.
+\newblock Detecting spam blogs: {A} machine learning approach.
+\newblock In {\em Proceedings, The Twenty-First National Conference on
+  Artificial Intelligence and the Eighteenth Innovative Applications of
+  Artificial Intelligence Conference, July 16-20, 2006, Boston, Massachusetts,
+  {USA}}, pages 1351--1356. {AAAI} Press, 2006.
+
+\bibitem{DBLP:conf/fusion/BlythePOdR06}
+Jim Blythe, Mithila Patwardhan, Tim Oates, Marie desJardins, and Penny
+  Rheingans.
+\newblock Visualization support for fusing relational, spatio-temporal data:
+  Building career histories.
+\newblock In {\em 9th International Conference on Information Fusion, {FUSION}
+  2006, Florence, Italy, July 10-13, 2006}, pages 1--7. {IEEE}, 2006.
+
+\bibitem{DBLP:conf/icgi/OatesABA06}
+Tim Oates, Tom Armstrong, Leonor Becerra{-}Bonache, and Mike Atamas.
+\newblock Inferring grammars for mildly context sensitive languages in
+  polynomial-time.
+\newblock In Yasubumi Sakakibara, Satoshi Kobayashi, Kengo Sato, Tetsuro
+  Nishino, and Etsuji Tomita, editors, {\em Grammatical Inference: Algorithms
+  and Applications, 8th International Colloquium, {ICGI} 2006, Tokyo, Japan,
+  September 20-22, 2006, Proceedings}, volume 4201 of {\em Lecture Notes in
+  Computer Science}, pages 137--147. Springer, 2006.
+
+\bibitem{DBLP:conf/pkdd/CatalanoAO06}
+Joe Catalano, Tom Armstrong, and Tim Oates.
+\newblock Discovering patterns in real-valued time series.
+\newblock In Johannes F{\"{u}}rnkranz, Tobias Scheffer, and Myra Spiliopoulou,
+  editors, {\em Knowledge Discovery in Databases: {PKDD} 2006, 10th European
+  Conference on Principles and Practice of Knowledge Discovery in Databases,
+  Berlin, Germany, September 18-22, 2006, Proceedings}, volume 4213 of {\em
+  Lecture Notes in Computer Science}, pages 462--469. Springer, 2006.
+
+\bibitem{DBLP:journals/ai/Oates05}
+Tim Oates.
+\newblock R. siegwart and i. nourbakhsh, introduction to autonomous mobile
+  robots, {MIT} press {(2004)}.
+\newblock {\em Artif. Intell.}, 169(2):146--149, 2005.
+
+\bibitem{DBLP:journals/aim/AndersonBBBCDDFGHLLLLMMMOPSSSY05}
+Michael~L. Anderson, Thomas Barkowsky, Pauline Berry, Douglas~S. Blank, Timothy
+  Chklovski, Pedro~M. Domingos, Marek~J. Druzdzel, Christian Freksa, John
+  Gersh, Mary Hegarty, Tze{-}Yun Leong, Henry Lieberman, Ric~K. Lowe, Susann
+  Luperfoy, Rada Mihalcea, Lisa Meeden, David~P. Miller, Tim Oates, Robert~L.
+  Popp, Daniel~G. Shapiro, Nathan Schurr, Push Singh, and John Yen.
+\newblock Reports on the 2005 {AAAI} spring symposium series.
+\newblock {\em {AI} Magazine}, 26(2):87--92, 2005.
+
+\bibitem{DBLP:conf/aaai/BriggsO05}
+Thomas Briggs and Tim Oates.
+\newblock Discovering domain-specific composite kernels.
+\newblock In Manuela~M. Veloso and Subbarao Kambhampati, editors, {\em
+  Proceedings, The Twentieth National Conference on Artificial Intelligence and
+  the Seventeenth Innovative Applications of Artificial Intelligence
+  Conference, July 9-13, 2005, Pittsburgh, Pennsylvania, {USA}}, pages
+  732--738. {AAAI} Press / The {MIT} Press, 2005.
+
+\bibitem{DBLP:conf/ijcai/KruegerOACB05}
+William Krueger, Tim Oates, Tom Armstrong, Paul~R. Cohen, and Carole~R. Beal.
+\newblock Transfer in learning by doing.
+\newblock In Leslie~Pack Kaelbling and Alessandro Saffiotti, editors, {\em
+  IJCAI-05, Proceedings of the Nineteenth International Joint Conference on
+  Artificial Intelligence, Edinburgh, Scotland, UK, July 30 - August 5, 2005},
+  pages 1618--1619. Professional Book Center, 2005.
+
+\bibitem{DBLP:conf/sara/PickettO05}
+Marc Pickett and Tim Oates.
+\newblock The cruncher: Automatic concept formation using minimum description
+  length.
+\newblock In Jean{-}Daniel Zucker and Lorenza Saitta, editors, {\em
+  Abstraction, Reformulation and Approximation, 6th International Symposium,
+  {SARA} 2005, Airth Castle, Scotland, UK, July 26-29, 2005, Proceedings},
+  volume 3607 of {\em Lecture Notes in Computer Science}, pages 282--289.
+  Springer, 2005.
+
+\bibitem{DBLP:conf/metacognition/2005}
+Mike Anderson and Tim Oates, editors.
+\newblock {\em 2005 {AAAI} Spring Symposium on Metacognition in Computation,
+  March 21-23 2005, Stanford, California, {USA}}, volume {SS-05-04} of {\em
+  {AAAI} Technical Report}. {AAAI} Press, 2005.
+
+\bibitem{DBLP:journals/aim/CanameroDGGHHMPOPQSSTWW04}
+Lola Ca{\~{n}}amero, Zachary Dodds, Lloyd~G. Greenwald, James~P. Gunderson,
+  Ayanna~M. Howard, Eva Hudlicka, Cheryl~E. Martin, Lynn Parker, Tim Oates,
+  Terry~R. Payne, Yan Qu, Craig Schlenoff, James~G. Shanahan, Sheila Tejada,
+  Jerry~B. Weinberg, and Janyce Wiebe.
+\newblock The 2004 {AAAI} spring symposium series.
+\newblock {\em {AI} Magazine}, 25(4):95--100, 2004.
+
+\bibitem{DBLP:journals/dke/BhatOSN04}
+Vinay Bhat, Tim Oates, Vishal Shanbhag, and Charles~K. Nicholas.
+\newblock Finding aliases on the web using latent semantic analysis.
+\newblock {\em Data Knowl. Eng.}, 49(2):129--143, 2004.
+
+\bibitem{DBLP:conf/aaai/OatesAHN04}
+Tim Oates, Tom Armstrong, Justin Harris, and Mark Nejman.
+\newblock On the relationship between lexical semantics and syntax for the
+  inference of context-free grammars.
+\newblock In Deborah~L. McGuinness and George Ferguson, editors, {\em
+  Proceedings of the Nineteenth National Conference on Artificial Intelligence,
+  Sixteenth Conference on Innovative Applications of Artificial Intelligence,
+  July 25-29, 2004, San Jose, California, {USA}}, pages 431--436. {AAAI} Press
+  / The {MIT} Press, 2004.
+
+\bibitem{DBLP:conf/waw/TawdeOG04}
+Vivek Tawde, Tim Oates, and Eric~J. Glover.
+\newblock Generating web graphs with embedded communities.
+\newblock In Stefano Leonardi, editor, {\em Algorithms and Models for the
+  Web-Graph: Third International Workshop, {WAW} 2004, Rome, Italy, October 16,
+  2004, Proceeedings}, volume 3243 of {\em Lecture Notes in Computer Science},
+  pages 80--91. Springer, 2004.
+
+\bibitem{DBLP:conf/amkm/KruegerNOF03}
+William Krueger, Jonathan Nilsson, Tim Oates, and Timothy~W. Finin.
+\newblock Automatically generated {DAML} markup for semistructured documents.
+\newblock In Ludger van Elst, Virginia Dignum, and Andreas Abecker, editors,
+  {\em Agent Mediated Knowledge Management, International Symposium {AMKM}
+  2003, Stanford, CA, USA, March 24-26, 2003, Revised and Invited Papers},
+  volume 2926 of {\em Lecture Notes in Computer Science}, pages 276--287.
+  Springer, 2003.
+
+\bibitem{DBLP:conf/ecml/OatesAHN03}
+Tim Oates, Tom Armstrong, Justin Harris, and Mark Nejman.
+\newblock Leveraging lexical semantics to infer context-free grammars.
+\newblock In Colin de~la Higuera, Pieter~W. Adriaans, Menno van Zaanen, and
+  Jos{\'{e}} Oncina, editors, {\em Proceedings of the Workshop and Tutorial on
+  Learning Contex-Free Grammars, {ECML} 2003, Cavtat-Dubrovnik, Croatia,
+  September 22-26, 2003}, pages 65--76. Ruder Boskovic Institute, Zagreb,
+  Croatia, 2003.
+
+\bibitem{DBLP:conf/ilp/OatesDH03}
+Tim Oates, Shailesh Doshi, and Fang Huang.
+\newblock Estimating maximum likelihood parameters for stochastic context-free
+  graph grammars.
+\newblock In Tam{\'{a}}s Horv{\'{a}}th, editor, {\em Inductive Logic
+  Programming: 13th International Conference, {ILP} 2003, Szeged, Hungary,
+  September 29-October 1, 2003, Proceedings}, volume 2835 of {\em Lecture Notes
+  in Computer Science}, pages 281--298. Springer, 2003.
+
+\bibitem{DBLP:conf/aaai/CohenOBA02}
+Paul~R. Cohen, Tim Oates, Carole~R. Beal, and Niall~M. Adams.
+\newblock Contentful mental states for robot baby.
+\newblock In Rina Dechter, Michael~J. Kearns, and Richard~S. Sutton, editors,
+  {\em Proceedings of the Eighteenth National Conference on Artificial
+  Intelligence and Fourteenth Conference on Innovative Applications of
+  Artificial Intelligence, July 28 - August 1, 2002, Edmonton, Alberta,
+  Canada.}, pages 126--131. {AAAI} Press / The {MIT} Press, 2002.
+
+\bibitem{DBLP:conf/icdm/Oates02}
+Tim Oates.
+\newblock {PERUSE:} an unsupervised algorithm for finding recurrig patterns in
+  time series.
+\newblock In {\em Proceedings of the 2002 {IEEE} International Conference on
+  Data Mining {(ICDM} 2002), 9-12 December 2002, Maebashi City, Japan}, pages
+  330--337. {IEEE} Computer Society, 2002.
+
+\bibitem{DBLP:conf/icgi/OatesH02}
+Tim Oates and Brent Heeringa.
+\newblock Estimating grammar parameters using bounded memory.
+\newblock In Pieter~W. Adriaans, Henning Fernau, and Menno van Zaanen, editors,
+  {\em Grammatical Inference: Algorithms and Applications, 6th International
+  Colloquium: {ICGI} 2002, Amsterdam, The Netherlands, September 23-25, 2002,
+  Proceedings}, volume 2484 of {\em Lecture Notes in Computer Science}, pages
+  185--198. Springer, 2002.
+
+\bibitem{DBLP:conf/icml/OatesDB02}
+Tim Oates, Devina Desai, and Vinay Bhat.
+\newblock Learning k-reversible context-free grammars from positive structural
+  examples.
+\newblock In Claude Sammut and Achim~G. Hoffmann, editors, {\em Machine
+  Learning, Proceedings of the Nineteenth International Conference {(ICML}
+  2002), University of New South Wales, Sydney, Australia, July 8-12, 2002},
+  pages 459--465. Morgan Kaufmann, 2002.
+
+\bibitem{DBLP:conf/uai/FinneyWKO02}
+Sarah Finney, Natalia Gardiol, Leslie~Pack Kaelbling, and Tim Oates.
+\newblock The thing that we tried didn't work very well: Deictic representation
+  in reinforcement learning.
+\newblock In Adnan Darwiche and Nir Friedman, editors, {\em {UAI} '02,
+  Proceedings of the 18th Conference in Uncertainty in Artificial Intelligence,
+  University of Alberta, Edmonton, Alberta, Canada, August 1-4, 2002}, pages
+  154--161. Morgan Kaufmann, 2002.
+
+\bibitem{DBLP:conf/widm/OatesBS02}
+Tim Oates, Vinay Bhat, and Vishal Shanbhag.
+\newblock Using latent semantic analysis to find different names for the same
+  entity in free text.
+\newblock In Roger H.~L. Chiang and Ee{-}Peng Lim, editors, {\em Fourth {ACM}
+  {CIKM} International Workshop on Web Information and Data Management {(WIDM}
+  2002), {SAIC} Headquaters, McLean, Virginia, USA, November 8, 2002}, pages
+  31--35. {ACM}, 2002.
+
+\bibitem{DBLP:conf/ai/KingO01}
+Gary~W. King and Tim Oates.
+\newblock The importance of being discrete: Learning classes of actions and
+  outcomes through interaction.
+\newblock In Eleni Stroulia and Stan Matwin, editors, {\em Advances in
+  Artificial Intelligence, 14th Biennial Conference of the Canadian Society for
+  Computational Studies of Intelligence, {AI} 2001, Ottawa, Canada, June 7-9,
+  2001, Proceedings}, volume 2056 of {\em Lecture Notes in Computer Science},
+  pages 236--245. Springer, 2001.
+
+\bibitem{DBLP:conf/alt/CohenOAB01}
+Paul~R. Cohen, Tim Oates, Niall~M. Adams, and Carole~R. Beal.
+\newblock Robot baby 2001.
+\newblock In Naoki Abe, Roni Khardon, and Thomas Zeugmann, editors, {\em
+  Algorithmic Learning Theory, 12th International Conference, {ALT} 2001,
+  Washington, DC, USA, November 25-28, 2001, Proceedings}, volume 2225 of {\em
+  Lecture Notes in Computer Science}, pages 32--56. Springer, 2001.
+
+\bibitem{DBLP:conf/dis/CohenOAB01}
+Paul~R. Cohen, Tim Oates, Niall~M. Adams, and Carole~R. Beal.
+\newblock Robot baby 2001.
+\newblock In Klaus~P. Jantke and Ayumi Shinohara, editors, {\em Discovery
+  Science, 4th International Conference, {DS} 2001, Washington, DC, USA,
+  November 25-28, 2001, Proceedings}, volume 2226 of {\em Lecture Notes in
+  Computer Science}, page~29. Springer, 2001.
+
+\bibitem{DBLP:conf/seqlearn/OatesFC01}
+Tim Oates, Laura Firoiu, and Paul~R. Cohen.
+\newblock Using dynamic time warping to bootstrap hmm-based clustering of time
+  series.
+\newblock In Ron Sun and C.~Lee Giles, editors, {\em Sequence Learning -
+  Paradigms, Algorithms, and Applications}, volume 1828 of {\em Lecture Notes
+  in Computer Science}, pages 35--52. Springer, 2001.
+
+\bibitem{DBLP:conf/aaai/OatesSC00}
+Tim Oates, Matthew~D. Schmill, and Paul~R. Cohen.
+\newblock A method for clustering the experiences of a mobile robot that
+  accords with human judgments.
+\newblock In Henry~A. Kautz and Bruce~W. Porter, editors, {\em Proceedings of
+  the Seventeenth National Conference on Artificial Intelligence and Twelfth
+  Conference on on Innovative Applications of Artificial Intelligence, July 30
+  - August 3, 2000, Austin, Texas, {USA.}}, pages 846--851. {AAAI} Press / The
+  {MIT} Press, 2000.
+
+\bibitem{DBLP:conf/agents/OatesSC00}
+Tim Oates, Matthew~D. Schmill, and Paul~R. Cohen.
+\newblock Identifying qualitatively different outcomes of actions: gaining
+  autonomy through learning.
+\newblock In Carles Sierra, Maria~L. Gini, and Jeffrey~S. Rosenschein, editors,
+  {\em Proceedings of the Fourth International Conference on Autonomous Agents,
+  {AGENTS} 2000, Barcelona, Catalonia, Spain, June 3-7, 2000}, pages 110--111.
+  {ACM}, 2000.
+
+\bibitem{DBLP:conf/agents/OatesEC00}
+Tim Oates, Zachary Eyler{-}Walker, and Paul~R. Cohen.
+\newblock Toward natural language interfaces for robotic agents: grounding
+  linguistic meaning in sensors.
+\newblock In Carles Sierra, Maria~L. Gini, and Jeffrey~S. Rosenschein, editors,
+  {\em Proceedings of the Fourth International Conference on Autonomous Agents,
+  {AGENTS} 2000, Barcelona, Catalonia, Spain, June 3-7, 2000}, pages 227--228.
+  {ACM}, 2000.
+
+\bibitem{DBLP:conf/aips/SchmillOC00}
+Matthew~D. Schmill, Tim Oates, and Paul~R. Cohen.
+\newblock Learning planning operators in real-world, partially observable
+  environments.
+\newblock In Steve~A. Chien, Subbarao Kambhampati, and Craig~A. Knoblock,
+  editors, {\em Proceedings of the Fifth International Conference on Artificial
+  Intelligence Planning Systems, Breckenridge, CO, USA, April 14-17, 2000},
+  pages 246--253. {AAAI}, 2000.
+
+\bibitem{DBLP:conf/aaai/OatesJ99}
+Tim Oates and David~D. Jensen.
+\newblock Toward a theoretical understanding of why and when decision tree
+  pruning algorithms fail.
+\newblock In Jim Hendler and Devika Subramanian, editors, {\em Proceedings of
+  the Sixteenth National Conference on Artificial Intelligence and Eleventh
+  Conference on Innovative Applications of Artificial Intelligence, July 18-22,
+  1999, Orlando, Florida, {USA.}}, pages 372--378. {AAAI} Press / The {MIT}
+  Press, 1999.
+
+\bibitem{DBLP:conf/aistats/OatesSCD99}
+Tim Oates, Matthew~D. Schmill, Paul~R. Cohen, and Casey Durfee.
+\newblock Efficient mining of statistical dependencies.
+\newblock In David Heckerman and Joe Whittaker, editors, {\em Proceedings of
+  the Seventh International Workshop on Artificial Intelligence and Statistics,
+  {AISTATS} 1999, Fort Lauderdale, Florida, USA, January 3-6, 1999}. Society
+  for Artificial Intelligence and Statistics, 1999.
+
+\bibitem{DBLP:conf/aistats/SchmillOC99}
+Matthew~D. Schmill, Tim Oates, and Paul~R. Cohen.
+\newblock Learned models for continuous planning.
+\newblock In David Heckerman and Joe Whittaker, editors, {\em Proceedings of
+  the Seventh International Workshop on Artificial Intelligence and Statistics,
+  {AISTATS} 1999, Fort Lauderdale, Florida, USA, January 3-6, 1999}. Society
+  for Artificial Intelligence and Statistics, 1999.
+
+\bibitem{DBLP:conf/ijcai/OatesSC99}
+Tim Oates, Matthew~D. Schmill, and Paul~R. Cohen.
+\newblock Efficient mining of statistical dependencies.
+\newblock In Thomas Dean, editor, {\em Proceedings of the Sixteenth
+  International Joint Conference on Artificial Intelligence, {IJCAI} 99,
+  Stockholm, Sweden, July 31 - August 6, 1999. 2 Volumes, 1450 pages}, pages
+  794--799. Morgan Kaufmann, 1999.
+
+\bibitem{DBLP:conf/kdd/ProvostJO99}
+Foster~J. Provost, David~D. Jensen, and Tim Oates.
+\newblock Efficient progressive sampling.
+\newblock In Usama~M. Fayyad, Surajit Chaudhuri, and David Madigan, editors,
+  {\em Proceedings of the Fifth {ACM} {SIGKDD} International Conference on
+  Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18, 1999},
+  pages 23--32. {ACM}, 1999.
+
+\bibitem{DBLP:conf/kdd/Oates99}
+Tim Oates.
+\newblock Identifying distinctive subsequences in multivariate time series by
+  clustering.
+\newblock In Usama~M. Fayyad, Surajit Chaudhuri, and David Madigan, editors,
+  {\em Proceedings of the Fifth {ACM} {SIGKDD} International Conference on
+  Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18, 1999},
+  pages 322--326. {ACM}, 1999.
+
+\bibitem{DBLP:conf/icgi/FiroiuOC98}
+Laura Firoiu, Tim Oates, and Paul~R. Cohen.
+\newblock Learning deterministic finite automaton with a recurrent neural
+  network.
+\newblock In Vasant~G. Honavar and Giora Slutzki, editors, {\em Grammatical
+  Inference, 4th International Colloquium, ICGI-98, Ames, Iowa, USA, July
+  12-14, 1998, Proceedings}, volume 1433 of {\em Lecture Notes in Computer
+  Science}, pages 90--101. Springer, 1998.
+
+\bibitem{DBLP:conf/kdd/OatesJ98}
+Tim Oates and David~D. Jensen.
+\newblock Large datasets lead to overly complex models: An explanation and a
+  solution.
+\newblock In Rakesh Agrawal, Paul~E. Stolorz, and Gregory Piatetsky{-}Shapiro,
+  editors, {\em Proceedings of the Fourth International Conference on Knowledge
+  Discovery and Data Mining (KDD-98), New York City, New York, USA, August
+  27-31, 1998}, pages 294--298. {AAAI} Press, 1998.
+
+\bibitem{DBLP:journals/iee/OatesPL97}
+Tim Oates, M.~V.~Nagendra Prasad, and Victor~R. Lesser.
+\newblock Cooperative information-gathering: a distributed problem-solving
+  approach.
+\newblock {\em Software Engineering - {IEE} Proceedings}, 144(1):72--88, 1997.
+
+\bibitem{DBLP:conf/agents/CohenAOB97}
+Paul~R. Cohen, Marc~S. Atkin, Tim Oates, and Carole~R. Beal.
+\newblock Neo: Learning conceptual knowledge by sensorimotor interaction with
+  an environment.
+\newblock In W.~Lewis Johnson, editor, {\em Proceedings of the First
+  International Conference on Autonomous Agents, {AGENTS} 1997, Marina del Rey,
+  California, USA, February 5-8, 1997}, pages 170--177. {ACM}, 1997.
+
+\bibitem{DBLP:conf/ecml/OatesSC97}
+Tim Oates, Matthew~D. Schmill, and Paul~R. Cohen.
+\newblock Parallel and distributed search for structure in multivariate time
+  series.
+\newblock In Maarten van Someren and Gerhard Widmer, editors, {\em Machine
+  Learning: ECML-97, 9th European Conference on Machine Learning, Prague, Czech
+  Republic, April 23-25, 1997, Proceedings}, volume 1224 of {\em Lecture Notes
+  in Computer Science}, pages 191--198. Springer, 1997.
+
+\bibitem{DBLP:conf/icml/OatesJ97}
+Tim Oates and David~D. Jensen.
+\newblock The effects of training set size on decision tree complexity.
+\newblock In Douglas~H. Fisher, editor, {\em Proceedings of the Fourteenth
+  International Conference on Machine Learning {(ICML} 1997), Nashville,
+  Tennessee, USA, July 8-12, 1997}, pages 254--262. Morgan Kaufmann, 1997.
+
+\bibitem{DBLP:conf/ida/JensenOC97}
+David~D. Jensen, Tim Oates, and Paul~R. Cohen.
+\newblock Building simple models: {A} case study with decision trees.
+\newblock In Xiaohui Liu, Paul~R. Cohen, and Michael~R. Berthold, editors, {\em
+  Advances in Intelligent Data Analysis, Reasoning about Data, Second
+  International Symposium, IDA-97, London, UK, August 4-6, 1997, Proceedings},
+  volume 1280 of {\em Lecture Notes in Computer Science}, pages 211--222.
+  Springer, 1997.
+
+\bibitem{DBLP:conf/aaai/OatesC96}
+Tim Oates and Paul~R. Cohen.
+\newblock Searching for planning operators with context-dependent and
+  probabilistic effects.
+\newblock In William~J. Clancey and Daniel~S. Weld, editors, {\em Proceedings
+  of the Thirteenth National Conference on Artificial Intelligence and Eighth
+  Innovative Applications of Artificial Intelligence Conference, {AAAI} 96,
+  {IAAI} 96, Portland, Oregon, USA, August 4-8, 1996, Volume 1.}, pages
+  863--868. {AAAI} Press / The {MIT} Press, 1996.
+
+\bibitem{DBLP:conf/icml/OatesC96}
+Tim Oates and Paul~R. Cohen.
+\newblock Searching for structure in multiple streams of data.
+\newblock In Lorenza Saitta, editor, {\em Machine Learning, Proceedings of the
+  Thirteenth International Conference {(ICML} '96), Bari, Italy, July 3-6,
+  1996}, pages 346--354. Morgan Kaufmann, 1996.
+
+\bibitem{DBLP:conf/aistats/OatesSGC95}
+Tim Oates, Matthew~D. Schmill, Dawn~E. Gregory, and Paul~R. Cohen.
+\newblock Detecting complex dependencies in categorical data.
+\newblock In Doug Fisher and Hans{-}Joachim Lenz, editors, {\em Learning from
+  Data - Fifth International Workshop on Artificial Intelligence and
+  Statistics, {AISTATS} 1995, Key West, Florida, USA, January, 1995.
+  Proceedings.}, pages 185--195. Springer, 1995.
+
+\bibitem{DBLP:conf/ictai/SchmillOC95}
+Matthew~D. Schmill, Tim Oates, and Paul~R. Cohen.
+\newblock Tools for detecting dependencies in {AI} systems.
+\newblock In {\em Seventh International Conference on Tools with Artificial
+  Intelligence, {ICTAI} '95, Herndon, VA, USA, November 5-8, 1995}, pages
+  148--155. {IEEE} Computer Society, 1995.
+
+\bibitem{DBLP:conf/aips/OatesC94}
+Tim Oates and Paul~R. Cohen.
+\newblock Toward a plan steering agent: Experiments with schedule maintenance.
+\newblock In Kristian~J. Hammond, editor, {\em Proceedings of the Second
+  International Conference on Artificial Intelligence Planning Systems,
+  University of Chicago, Chicago, Illinois, USA, June 13-15, 1994}, pages
+  134--139. {AAAI}, 1994.
+
+\bibitem{DBLP:conf/pakdd/2018-3}
+Dinh~Q. Phung, Vincent~S. Tseng, Geoffrey~I. Webb, Bao Ho, Mohadeseh Ganji, and
+  Lida Rashidi, editors.
+\newblock {\em Advances in Knowledge Discovery and Data Mining - 22nd
+  Pacific-Asia Conference, {PAKDD} 2018, Melbourne, VIC, Australia, June 3-6,
+  2018, Proceedings, Part {III}}, volume 10939 of {\em Lecture Notes in
+  Computer Science}. Springer, 2018.
+
+\bibitem{DBLP:conf/cec/2017}
+{\em 2017 {IEEE} Congress on Evolutionary Computation, {CEC} 2017, Donostia,
+  San Sebasti{\'{a}}n, Spain, June 5-8, 2017}. {IEEE}, 2017.
+
+\bibitem{DBLP:conf/hri/2017c}
+Bilge Mutlu, Manfred Tscheligi, Astrid Weiss, and James~E. Young, editors.
+\newblock {\em Companion of the 2017 {ACM/IEEE} International Conference on
+  Human-Robot Interaction, {HRI} 2017, Vienna, Austria, March 6-9, 2017}.
+  {ACM}, 2017.
+
+\bibitem{DBLP:conf/icdm/2017w}
+Raju Gottumukkala, Xia Ning, Guozhu Dong, Vijay Raghavan, Srinivas Aluru,
+  George Karypis, Lucio Miele, and Xindong Wu, editors.
+\newblock {\em 2017 {IEEE} International Conference on Data Mining Workshops,
+  {ICDM} Workshops 2017, New Orleans, LA, USA, November 18-21, 2017}. {IEEE}
+  Computer Society, 2017.
+
+\bibitem{DBLP:conf/ijcnn/2017}
+{\em 2017 International Joint Conference on Neural Networks, {IJCNN} 2017,
+  Anchorage, AK, USA, May 14-19, 2017}. {IEEE}, 2017.
+
+\bibitem{DBLP:conf/iscas/2017}
+{\em {IEEE} International Symposium on Circuits and Systems, {ISCAS} 2017,
+  Baltimore, MD, USA, May 28-31, 2017}. {IEEE}, 2017.
+
+\bibitem{DBLP:conf/petra/2017}
+{\em Proceedings of the 10th International Conference on PErvasive Technologies
+  Related to Assistive Environments, {PETRA} 2017, Island of Rhodes, Greece,
+  June 21-23, 2017}. {ACM}, 2017.
+
+\bibitem{DBLP:conf/ssd/2017}
+Michael Gertz, Matthias Renz, Xiaofang Zhou, Erik~G. Hoel, Wei{-}Shinn Ku,
+  Agn{\`{e}}s Voisard, Chengyang Zhang, Haiquan Chen, Liang Tang, Yan Huang,
+  Chang{-}Tien Lu, and Siva Ravada, editors.
+\newblock {\em Advances in Spatial and Temporal Databases - 15th International
+  Symposium, {SSTD} 2017, Arlington, VA, USA, August 21-23, 2017, Proceedings},
+  volume 10411 of {\em Lecture Notes in Computer Science}. Springer, 2017.
+
+\bibitem{DBLP:conf/aaai/2016}
+Dale Schuurmans and Michael~P. Wellman, editors.
+\newblock {\em Proceedings of the Thirtieth {AAAI} Conference on Artificial
+  Intelligence, February 12-17, 2016, Phoenix, Arizona, {USA}}. {AAAI} Press,
+  2016.
+
+\bibitem{DBLP:conf/edbt/2016}
+Evaggelia Pitoura, Sofian Maabout, Georgia Koutrika, Am{\'{e}}lie Marian,
+  Letizia Tanca, Ioana Manolescu, and Kostas Stefanidis, editors.
+\newblock {\em Proceedings of the 19th International Conference on Extending
+  Database Technology, {EDBT} 2016, Bordeaux, France, March 15-16, 2016,
+  Bordeaux, France, March 15-16, 2016}. OpenProceedings.org, 2016.
+
+\bibitem{DBLP:conf/icdm/2016w}
+Carlotta Domeniconi, Francesco Gullo, Francesco Bonchi, Josep Domingo{-}Ferrer,
+  Ricardo~A. Baeza{-}Yates, Zhi{-}Hua Zhou, and Xindong Wu, editors.
+\newblock {\em {IEEE} International Conference on Data Mining Workshops, {ICDM}
+  Workshops 2016, December 12-15, 2016, Barcelona, Spain}. {IEEE} Computer
+  Society, 2016.
+
+\bibitem{DBLP:conf/iri/2016}
+{\em 17th {IEEE} International Conference on Information Reuse and Integration,
+  {IRI} 2016, Pittsburgh, PA, USA, July 28-30, 2016}. {IEEE} Computer Society,
+  2016.
+
+\bibitem{DBLP:conf/lrec/2016}
+Nicoletta Calzolari, Khalid Choukri, Thierry Declerck, Sara Goggi, Marko
+  Grobelnik, Bente Maegaard, Joseph Mariani, H{\'{e}}l{\`{e}}ne Mazo,
+  Asunci{\'{o}}n Moreno, Jan Odijk, and Stelios Piperidis, editors.
+\newblock {\em Proceedings of the Tenth International Conference on Language
+  Resources and Evaluation {LREC} 2016, Portoro{\v{z}}, Slovenia, May 23-28,
+  2016}. European Language Resources Association {(ELRA)}, 2016.
+
+\bibitem{DBLP:conf/saso/2016}
+Giacomo Cabri, Gauthier Picard, and Niranjan Suri, editors.
+\newblock {\em 10th {IEEE} International Conference on Self-Adaptive and
+  Self-Organizing Systems, {SASO} 2016, Augsburg, Germany, September 12-16,
+  2016}. {IEEE} Computer Society, 2016.
+
+\bibitem{DBLP:conf/semeval/2016}
+Steven Bethard, Daniel~M. Cer, Marine Carpuat, David Jurgens, Preslav Nakov,
+  and Torsten Zesch, editors.
+\newblock {\em Proceedings of the 10th International Workshop on Semantic
+  Evaluation, SemEval@NAACL-HLT 2016, San Diego, CA, USA, June 16-17, 2016}.
+  The Association for Computer Linguistics, 2016.
+
+\bibitem{DBLP:conf/cikm/2015pikm}
+Mouna Kacimi, Nicoleta Preda, and Maya Ramanath, editors.
+\newblock {\em Proceedings of the 8th Workshop on Ph.D. Workshop in Information
+  and Knowledge Management, {PIKM} 2015, Melbourne, Australia, October 19,
+  2015}. {ACM}, 2015.
+
+\bibitem{DBLP:conf/edbt/2015}
+Gustavo Alonso, Floris Geerts, Lucian Popa, Pablo Barcel{\'{o}}, Jens Teubner,
+  Mart{\'{\i}}n Ugarte, Jan~Van den Bussche, and Jan Paredaens, editors.
+\newblock {\em Proceedings of the 18th International Conference on Extending
+  Database Technology, {EDBT} 2015, Brussels, Belgium, March 23-27, 2015}.
+  OpenProceedings.org, 2015.
+
+\bibitem{DBLP:conf/embc/2015}
+{\em 37th Annual International Conference of the {IEEE} Engineering in Medicine
+  and Biology Society, {EMBC} 2015, Milan, Italy, August 25-29, 2015}. {IEEE},
+  2015.
+
+\bibitem{DBLP:conf/flairs/2015}
+Ingrid Russell and William Eberle, editors.
+\newblock {\em Proceedings of the Twenty-Eighth International Florida
+  Artificial Intelligence Research Society Conference, {FLAIRS} 2015,
+  Hollywood, Florida, USA, May 18-20, 2015}. {AAAI} Press, 2015.
+
+\bibitem{DBLP:conf/icdm/2015w}
+{\em {IEEE} International Conference on Data Mining Workshop, {ICDMW} 2015,
+  Atlantic City, NJ, USA, November 14-17, 2015}. {IEEE} Computer Society, 2015.
+
+\bibitem{DBLP:conf/ijcai/2015}
+Qiang Yang and Michael Wooldridge, editors.
+\newblock {\em Proceedings of the Twenty-Fourth International Joint Conference
+  on Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July
+  25-31, 2015}. {AAAI} Press, 2015.
+
+\bibitem{DBLP:conf/flairs/2014}
+William Eberle and Chutima Boonthum{-}Denecke, editors.
+\newblock {\em Proceedings of the Twenty-Seventh International Florida
+  Artificial Intelligence Research Society Conference, {FLAIRS} 2014, Pensacola
+  Beach, Florida, USA, May 21-23, 2014}. {AAAI} Press, 2014.
+
+\bibitem{DBLP:conf/icdm/2014w}
+Zhi{-}Hua Zhou, Wei Wang, Ravi Kumar, Hannu Toivonen, Jian Pei, Joshua~Zhexue
+  Huang, and Xindong Wu, editors.
+\newblock {\em 2014 {IEEE} International Conference on Data Mining Workshops,
+  {ICDM} Workshops 2014, Shenzhen, China, December 14, 2014}. {IEEE} Computer
+  Society, 2014.
+
+\bibitem{DBLP:conf/icmla/2014}
+{\em 13th International Conference on Machine Learning and Applications,
+  {ICMLA} 2014, Detroit, MI, USA, December 3-6, 2014}. {IEEE}, 2014.
+
+\bibitem{DBLP:conf/pkdd/2014-3}
+Toon Calders, Floriana Esposito, Eyke H{\"{u}}llermeier, and Rosa Meo, editors.
+\newblock {\em Machine Learning and Knowledge Discovery in Databases - European
+  Conference, {ECML} {PKDD} 2014, Nancy, France, September 15-19, 2014.
+  Proceedings, Part {III}}, volume 8726 of {\em Lecture Notes in Computer
+  Science}. Springer, 2014.
+
+\bibitem{DBLP:conf/cikm/2013}
+Qi~He, Arun Iyengar, Wolfgang Nejdl, Jian Pei, and Rajeev Rastogi, editors.
+\newblock {\em 22nd {ACM} International Conference on Information and Knowledge
+  Management, CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013}.
+  {ACM}, 2013.
+
+\bibitem{DBLP:conf/icmla/2013-1}
+{\em 12th International Conference on Machine Learning and Applications,
+  {ICMLA} 2013, Miami, FL, USA, December 4-7, 2013, Volume 1}. {IEEE}, 2013.
+
+\bibitem{DBLP:conf/ictai/2013}
+{\em 25th {IEEE} International Conference on Tools with Artificial
+  Intelligence, {ICTAI} 2013, Herndon, VA, USA, November 4-6, 2013}. {IEEE}
+  Computer Society, 2013.
+
+\bibitem{DBLP:conf/naacl/2013}
+Lucy Vanderwende, Hal~Daum{\'{e}} III, and Katrin Kirchhoff, editors.
+\newblock {\em Human Language Technologies: Conference of the North American
+  Chapter of the Association of Computational Linguistics, Proceedings, June
+  9-14, 2013, Westin Peachtree Plaza Hotel, Atlanta, Georgia, {USA}}. The
+  Association for Computational Linguistics, 2013.
+
+\bibitem{DBLP:conf/riao/2013}
+Jo{\~{a}}o Ferreira, Jo{\~{a}}o Magalh{\~{a}}es, and P{\'{a}}vel Calado,
+  editors.
+\newblock {\em Open research Areas in Information Retrieval, {OAIR} '13,
+  Lisbon, Portugal, May 15-17, 2013}. {ACM}, 2013.
+
+\bibitem{DBLP:conf/icb/2012}
+Anil~K. Jain, Arun Ross, Salil Prabhakar, and Jaihie Kim, editors.
+\newblock {\em 5th {IAPR} International Conference on Biometrics, {ICB} 2012,
+  New Delhi, India, March 29 - April 1, 2012}. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icdl-epirob/2012}
+{\em 2012 {IEEE} International Conference on Development and Learning and
+  Epigenetic Robotics, {ICDL-EPIROB} 2012, San Diego, CA, USA, November 7-9,
+  2012}. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/icmla/2012-2}
+{\em 11th International Conference on Machine Learning and Applications, ICMLA,
+  Boca Raton, FL, USA, December 12-15, 2012. Volume 2}. {IEEE}, 2012.
+
+\bibitem{DBLP:conf/incdm/2012p}
+Petra Perner, editor.
+\newblock {\em Advances in Data Mining. 12th Industrial Conference, {ICDM}
+  2012, Berlin, Germany, July 2012, Poster and Industry Proceedings}. IBaI
+  Publishing, 2012.
+
+\bibitem{DBLP:conf/incdm/2012w}
+Isabelle Bichindaritz, Petra Perner, Georg Ru{\ss}, and Rainer Schmidt,
+  editors.
+\newblock {\em Advances in Data Mining, 12th Industrial Conference, {ICDM}
+  2012, Berlin, Germany, July 2012, Workshop Proceedings, Workshop on
+  Case-Based Reasoning {CBR-MD} 2012, Workshop on Data Mining in Agriculture
+  {DMA} 2012, Workshop on Data Mining in Life Sciences {DMLS} 2012, Workshop on
+  Data Mining in Marketing {DMM} 2012}. IBaI Publishing, 2012.
+
+\bibitem{DBLP:conf/iri/2012}
+Chengcui Zhang, James Joshi, Elisa Bertino, and Bhavani~M. Thuraisingham,
+  editors.
+\newblock {\em {IEEE} 13th International Conference on Information Reuse {\&}
+  Integration, {IRI} 2012, Las Vegas, NV, USA, August 8-10, 2012}. {IEEE},
+  2012.
+
+\bibitem{DBLP:conf/naacl/2012aw}
+James Fan, Raphael Hoffman, Aditya Kalyanpur, Sebastian Riedel, Fabian~M.
+  Suchanek, and Partha~Pratim Talukdar, editors.
+\newblock {\em Proceedings of the Joint Workshop on Automatic Knowledge Base
+  Construction and Web-scale Knowledge Extraction, AKBC-WEKEX@NAACL-HLT 2012,
+  Montr{\`{e}}al, Canada, June 7-8, 2012}. Association for Computational
+  Linguistics, 2012.
+
+\bibitem{DBLP:conf/sdm/2012}
+{\em Proceedings of the Twelfth {SIAM} International Conference on Data Mining,
+  Anaheim, California, USA, April 26-28, 2012}. {SIAM} / Omnipress, 2012.
+
+\bibitem{DBLP:conf/icgi/2012HIDE}
+Jeffrey Heinz, Colin de~la Higuera, and Tim Oates, editors.
+\newblock {\em Proceedings of the Eleventh International Conference on
+  Grammatical Inference, {ICGI} 2012, University of Maryland, College Park,
+  USA, September 5-8, 2012}, volume~21 of {\em {JMLR} Proceedings}. JMLR.org,
+  2012.
+
+\bibitem{DBLP:conf/tac/2012}
+{\em Proceedings of the Fifth Text Analysis Conference, {TAC} 2012,
+  Gaithersburg, Maryland, USA, November 5-6, 2012}. {NIST}, 2012.
+
+\bibitem{DBLP:conf/aaaifs/2011-1}
+{\em Advances in Cognitive Systems, Papers from the 2011 {AAAI} Fall Symposium,
+  Arlington, Virginia, USA, November 4-6, 2011}, volume {FS-11-01} of {\em
+  {AAAI} Technical Report}. {AAAI}, 2011.
+
+\bibitem{DBLP:conf/iat/2011w}
+Jomi~Fred H{\"{u}}bner, Jean{-}Marc Petit, and Einoshin Suzuki, editors.
+\newblock {\em Proceedings of the 2011 {IEEE/WIC/ACM} International Joint
+  Conference on Web Intelligence and Intelligent Agent Technology - Workshops,
+  {WI-IAT} 2011, Campus Scientifique de la Doua, Lyon, France, August 22-27,
+  2011}. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/icdm/2011w}
+Myra Spiliopoulou, Haixun Wang, Diane~J. Cook, Jian Pei, Wei Wang, Osmar~R.
+  Za{\"{\i}}ane, and Xindong Wu, editors.
+\newblock {\em Data Mining Workshops (ICDMW), 2011 {IEEE} 11th International
+  Conference on, Vancouver, BC, Canada, December 11, 2011}. {IEEE} Computer
+  Society, 2011.
+
+\bibitem{DBLP:conf/icmla/2011-2}
+Xue{-}wen Chen, Tharam~S. Dillon, Hisao Ishibuchi, Jian Pei, Haixun Wang, and
+  M.~Arif Wani, editors.
+\newblock {\em 10th International Conference on Machine Learning and
+  Applications and Workshops, {ICMLA} 2011, Honolulu, Hawaii, USA, December
+  18-21, 2011. Volume 2: Special Sessions and Workshop}. {IEEE} Computer
+  Society, 2011.
+
+\bibitem{DBLP:conf/icmla/2011-1}
+Xue{-}wen Chen, Tharam~S. Dillon, Hisao Ishibuchi, Jian Pei, Haixun Wang, and
+  M.~Arif Wani, editors.
+\newblock {\em 10th International Conference on Machine Learning and
+  Applications and Workshops, {ICMLA} 2011, Honolulu, Hawaii, USA, December
+  18-21, 2011. Volume 1: Main Conference}. {IEEE} Computer Society, 2011.
+
+\bibitem{DBLP:conf/ictai/2011}
+{\em {IEEE} 23rd International Conference on Tools with Artificial
+  Intelligence, {ICTAI} 2011, Boca Raton, FL, USA, November 7-9, 2011}. {IEEE}
+  Computer Society, 2011.
+
+\bibitem{DBLP:conf/petra/2011}
+Margrit Betke, Ilias Maglogiannis, and Grammati~E. Pantziou, editors.
+\newblock {\em {PETRA} 2011, The 4th International Conference on PErvasive
+  Technologies Related to Assistive Environments, Crete, Greece, May 25-27,
+  2011}. {ACM}, 2011.
+
+\bibitem{DBLP:conf/visapp/2011}
+Leonid Mestetskiy and Jos{\'{e}} Braz, editors.
+\newblock {\em {VISAPP} 2011 - Proceedings of the Sixth International
+  Conference on Computer Vision Theory and Applications, Vilamoura, Algarve,
+  Portugal, 5-7 March, 2011}. SciTePress, 2011.
+
+\bibitem{DBLP:conf/aaai/2010meta}
+{\em Metacognition for Robust Social Systems, Papers from the 2010 {AAAI}
+  Workshop, Atlanta, Georgia, USA, July 11, 2010}, volume {WS-10-04} of {\em
+  {AAAI} Workshops}. {AAAI}, 2010.
+
+\bibitem{DBLP:conf/aaaifs/2010-2}
+{\em Commonsense Knowledge, Papers from the 2010 {AAAI} Fall Symposium,
+  Arlington, Virginia, USA, November 11-13, 2010}, volume {FS-10-02} of {\em
+  {AAAI} Technical Report}. {AAAI}, 2010.
+
+\bibitem{DBLP:conf/emnlp/2010}
+{\em Proceedings of the 2010 Conference on Empirical Methods in Natural
+  Language Processing, {EMNLP} 2010, 9-11 October 2010, {MIT} Stata Center,
+  Massachusetts, USA, {A} meeting of SIGDAT, a Special Interest Group of the
+  {ACL}}. {ACL}, 2010.
+
+\bibitem{DBLP:conf/icgi/2010}
+Jos{\'{e}}~M. Sempere and Pedro Garc{\'{\i}}a, editors.
+\newblock {\em Grammatical Inference: Theoretical Results and Applications,
+  10th International Colloquium, {ICGI} 2010, Valencia, Spain, September 13-16,
+  2010. Proceedings}, volume 6339 of {\em Lecture Notes in Computer Science}.
+  Springer, 2010.
+
+\bibitem{DBLP:conf/icmla/2010}
+Sorin Draghici, Taghi~M. Khoshgoftaar, Vasile Palade, Witold Pedrycz, M.~Arif
+  Wani, and Xingquan Zhu, editors.
+\newblock {\em The Ninth International Conference on Machine Learning and
+  Applications, {ICMLA} 2010, Washington, DC, USA, 12-14 December 2010}. {IEEE}
+  Computer Society, 2010.
+
+\bibitem{DBLP:conf/lcn/2010}
+{\em The 35th Annual {IEEE} Conference on Local Computer Networks, {LCN} 2010,
+  10-14 October 2010, Denver, Colorado, USA, Proceedings}. {IEEE} Computer
+  Society, 2010.
+
+\bibitem{DBLP:conf/sdm/2010}
+{\em Proceedings of the {SIAM} International Conference on Data Mining, {SDM}
+  2010, April 29 - May 1, 2010, Columbus, Ohio, {USA}}. {SIAM}, 2010.
+
+\bibitem{DBLP:conf/aaaiss/2009-7}
+{\em Learning by Reading and Learning to Read, Papers from the 2009 {AAAI}
+  Spring Symposium, Technical Report SS-09-07, Stanford, California, USA, March
+  23-25, 2009}. {AAAI}, 2009.
+
+\bibitem{DBLP:conf/cikm/2009}
+David~Wai{-}Lok Cheung, Il{-}Yeol Song, Wesley~W. Chu, Xiaohua Hu, and Jimmy~J.
+  Lin, editors.
+\newblock {\em Proceedings of the 18th {ACM} Conference on Information and
+  Knowledge Management, {CIKM} 2009, Hong Kong, China, November 2-6, 2009}.
+  {ACM}, 2009.
+
+\bibitem{DBLP:conf/ijcai/2009}
+Craig Boutilier, editor.
+\newblock {\em {IJCAI} 2009, Proceedings of the 21st International Joint
+  Conference on Artificial Intelligence, Pasadena, California, USA, July 11-17,
+  2009}, 2009.
+
+\bibitem{DBLP:conf/aaai/2008}
+Dieter Fox and Carla~P. Gomes, editors.
+\newblock {\em Proceedings of the Twenty-Third {AAAI} Conference on Artificial
+  Intelligence, {AAAI} 2008, Chicago, Illinois, USA, July 13-17, 2008}. {AAAI}
+  Press, 2008.
+
+\bibitem{DBLP:conf/agi/2008}
+Pei Wang, Ben Goertzel, and Stan Franklin, editors.
+\newblock {\em Artificial General Intelligence 2008, Proceedings of the First
+  {AGI} Conference, {AGI} 2008, March 1-3, 2008, University of Memphis,
+  Memphis, TN, {USA}}, volume 171 of {\em Frontiers in Artificial Intelligence
+  and Applications}. {IOS} Press, 2008.
+
+\bibitem{DBLP:conf/flairs/2008}
+David Wilson and H.~Chad Lane, editors.
+\newblock {\em Proceedings of the Twenty-First International Florida Artificial
+  Intelligence Research Society Conference, May 15-17, 2008, Coconut Grove,
+  Florida, {USA}}. {AAAI} Press, 2008.
+
+\bibitem{DBLP:conf/icgi/2008}
+Alexander Clark, Fran{\c{c}}ois Coste, and Laurent Miclet, editors.
+\newblock {\em Grammatical Inference: Algorithms and Applications, 9th
+  International Colloquium, {ICGI} 2008, Saint-Malo, France, September 22-24,
+  2008, Proceedings}, volume 5278 of {\em Lecture Notes in Computer Science}.
+  Springer, 2008.
+
+\bibitem{DBLP:conf/aaai/2007}
+{\em Proceedings of the Twenty-Second {AAAI} Conference on Artificial
+  Intelligence, July 22-26, 2007, Vancouver, British Columbia, Canada}. {AAAI}
+  Press, 2007.
+
+\bibitem{DBLP:conf/aaaiss/2007-5}
+{\em Logical Formalizations of Commonsense Reasoning, Papers from the 2007
+  {AAAI} Spring Symposium, Technical Report SS-07-05, Stanford, California,
+  USA, March 26-28, 2007}. {AAAI}, 2007.
+
+\bibitem{DBLP:conf/icwsm/2007}
+Natalie~S. Glance, Nicolas Nicolov, Eytan Adar, Matthew Hurst, Mark Liberman,
+  and Franco Salvetti, editors.
+\newblock {\em Proceedings of the First International Conference on Weblogs and
+  Social Media, {ICWSM} 2007, Boulder, Colorado, USA, March 26-28, 2007}, 2007.
+
+\bibitem{DBLP:conf/ijcai/2007aitami}
+Juan~Carlos Augusto and Daniel Shapiro, editors.
+\newblock {\em Advances in Ambient Intelligence [best papers from AITamI@IJCAI
+  2007, Hyderabad, India, January 2007]}, volume 164 of {\em Frontiers in
+  Artificial Intelligence and Applications}. {IOS} Press, 2007.
+
+\bibitem{DBLP:conf/ijcai/2007}
+Manuela~M. Veloso, editor.
+\newblock {\em {IJCAI} 2007, Proceedings of the 20th International Joint
+  Conference on Artificial Intelligence, Hyderabad, India, January 6-12, 2007},
+  2007.
+
+\bibitem{DBLP:conf/semco/2007}
+{\em Proceedings of the First {IEEE} International Conference on Semantic
+  Computing {(ICSC} 2007), September 17-19, 2007, Irvine, California, {USA}}.
+  {IEEE} Computer Society, 2007.
+
+\bibitem{DBLP:conf/aaai/2006}
+{\em Proceedings, The Twenty-First National Conference on Artificial
+  Intelligence and the Eighteenth Innovative Applications of Artificial
+  Intelligence Conference, July 16-20, 2006, Boston, Massachusetts, {USA}}.
+  {AAAI} Press, 2006.
+
+\bibitem{DBLP:conf/fusion/2006}
+{\em 9th International Conference on Information Fusion, {FUSION} 2006,
+  Florence, Italy, July 10-13, 2006}. {IEEE}, 2006.
+
+\bibitem{DBLP:conf/icgi/2006}
+Yasubumi Sakakibara, Satoshi Kobayashi, Kengo Sato, Tetsuro Nishino, and Etsuji
+  Tomita, editors.
+\newblock {\em Grammatical Inference: Algorithms and Applications, 8th
+  International Colloquium, {ICGI} 2006, Tokyo, Japan, September 20-22, 2006,
+  Proceedings}, volume 4201 of {\em Lecture Notes in Computer Science}.
+  Springer, 2006.
+
+\bibitem{DBLP:conf/pkdd/2006}
+Johannes F{\"{u}}rnkranz, Tobias Scheffer, and Myra Spiliopoulou, editors.
+\newblock {\em Knowledge Discovery in Databases: {PKDD} 2006, 10th European
+  Conference on Principles and Practice of Knowledge Discovery in Databases,
+  Berlin, Germany, September 18-22, 2006, Proceedings}, volume 4213 of {\em
+  Lecture Notes in Computer Science}. Springer, 2006.
+
+\bibitem{DBLP:conf/aaai/2005}
+Manuela~M. Veloso and Subbarao Kambhampati, editors.
+\newblock {\em Proceedings, The Twentieth National Conference on Artificial
+  Intelligence and the Seventeenth Innovative Applications of Artificial
+  Intelligence Conference, July 9-13, 2005, Pittsburgh, Pennsylvania, {USA}}.
+  {AAAI} Press / The {MIT} Press, 2005.
+
+\bibitem{DBLP:conf/ijcai/2005}
+Leslie~Pack Kaelbling and Alessandro Saffiotti, editors.
+\newblock {\em IJCAI-05, Proceedings of the Nineteenth International Joint
+  Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July 30 -
+  August 5, 2005}. Professional Book Center, 2005.
+
+\bibitem{DBLP:conf/sara/2005}
+Jean{-}Daniel Zucker and Lorenza Saitta, editors.
+\newblock {\em Abstraction, Reformulation and Approximation, 6th International
+  Symposium, {SARA} 2005, Airth Castle, Scotland, UK, July 26-29, 2005,
+  Proceedings}, volume 3607 of {\em Lecture Notes in Computer Science}.
+  Springer, 2005.
+
+\bibitem{DBLP:conf/aaai/2004}
+Deborah~L. McGuinness and George Ferguson, editors.
+\newblock {\em Proceedings of the Nineteenth National Conference on Artificial
+  Intelligence, Sixteenth Conference on Innovative Applications of Artificial
+  Intelligence, July 25-29, 2004, San Jose, California, {USA}}. {AAAI} Press /
+  The {MIT} Press, 2004.
+
+\bibitem{DBLP:conf/waw/2004}
+Stefano Leonardi, editor.
+\newblock {\em Algorithms and Models for the Web-Graph: Third International
+  Workshop, {WAW} 2004, Rome, Italy, October 16, 2004, Proceeedings}, volume
+  3243 of {\em Lecture Notes in Computer Science}. Springer, 2004.
+
+\bibitem{DBLP:conf/amkm/2003}
+Ludger van Elst, Virginia Dignum, and Andreas Abecker, editors.
+\newblock {\em Agent Mediated Knowledge Management, International Symposium
+  {AMKM} 2003, Stanford, CA, USA, March 24-26, 2003, Revised and Invited
+  Papers}, volume 2926 of {\em Lecture Notes in Computer Science}. Springer,
+  2004.
+
+\bibitem{DBLP:conf/ecml/2003lcfg}
+Colin de~la Higuera, Pieter~W. Adriaans, Menno van Zaanen, and Jos{\'{e}}
+  Oncina, editors.
+\newblock {\em Proceedings of the Workshop and Tutorial on Learning Contex-Free
+  Grammars, {ECML} 2003, Cavtat-Dubrovnik, Croatia, September 22-26, 2003}.
+  Ruder Boskovic Institute, Zagreb, Croatia, 2003.
+
+\bibitem{DBLP:conf/ilp/2003}
+Tam{\'{a}}s Horv{\'{a}}th, editor.
+\newblock {\em Inductive Logic Programming: 13th International Conference,
+  {ILP} 2003, Szeged, Hungary, September 29-October 1, 2003, Proceedings},
+  volume 2835 of {\em Lecture Notes in Computer Science}. Springer, 2003.
+
+\bibitem{DBLP:conf/aaai/2002}
+Rina Dechter, Michael~J. Kearns, and Richard~S. Sutton, editors.
+\newblock {\em Proceedings of the Eighteenth National Conference on Artificial
+  Intelligence and Fourteenth Conference on Innovative Applications of
+  Artificial Intelligence, July 28 - August 1, 2002, Edmonton, Alberta,
+  Canada}. {AAAI} Press / The {MIT} Press, 2002.
+
+\bibitem{DBLP:conf/icdm/2002}
+{\em Proceedings of the 2002 {IEEE} International Conference on Data Mining
+  {(ICDM} 2002), 9-12 December 2002, Maebashi City, Japan}. {IEEE} Computer
+  Society, 2002.
+
+\bibitem{DBLP:conf/icgi/2002}
+Pieter~W. Adriaans, Henning Fernau, and Menno van Zaanen, editors.
+\newblock {\em Grammatical Inference: Algorithms and Applications, 6th
+  International Colloquium: {ICGI} 2002, Amsterdam, The Netherlands, September
+  23-25, 2002, Proceedings}, volume 2484 of {\em Lecture Notes in Computer
+  Science}. Springer, 2002.
+
+\bibitem{DBLP:conf/icml/2002}
+Claude Sammut and Achim~G. Hoffmann, editors.
+\newblock {\em Machine Learning, Proceedings of the Nineteenth International
+  Conference {(ICML} 2002), University of New South Wales, Sydney, Australia,
+  July 8-12, 2002}. Morgan Kaufmann, 2002.
+
+\bibitem{DBLP:conf/uai/2002}
+Adnan Darwiche and Nir Friedman, editors.
+\newblock {\em {UAI} '02, Proceedings of the 18th Conference in Uncertainty in
+  Artificial Intelligence, University of Alberta, Edmonton, Alberta, Canada,
+  August 1-4, 2002}. Morgan Kaufmann, 2002.
+
+\bibitem{DBLP:conf/widm/2002}
+Roger H.~L. Chiang and Ee{-}Peng Lim, editors.
+\newblock {\em Fourth {ACM} {CIKM} International Workshop on Web Information
+  and Data Management {(WIDM} 2002), {SAIC} Headquaters, McLean, Virginia, USA,
+  November 8, 2002}. {ACM}, 2002.
+
+\bibitem{DBLP:conf/ai/2001}
+Eleni Stroulia and Stan Matwin, editors.
+\newblock {\em Advances in Artificial Intelligence, 14th Biennial Conference of
+  the Canadian Society for Computational Studies of Intelligence, {AI} 2001,
+  Ottawa, Canada, June 7-9, 2001, Proceedings}, volume 2056 of {\em Lecture
+  Notes in Computer Science}. Springer, 2001.
+
+\bibitem{DBLP:conf/alt/2001}
+Naoki Abe, Roni Khardon, and Thomas Zeugmann, editors.
+\newblock {\em Algorithmic Learning Theory, 12th International Conference,
+  {ALT} 2001, Washington, DC, USA, November 25-28, 2001, Proceedings}, volume
+  2225 of {\em Lecture Notes in Computer Science}. Springer, 2001.
+
+\bibitem{DBLP:conf/dis/2001}
+Klaus~P. Jantke and Ayumi Shinohara, editors.
+\newblock {\em Discovery Science, 4th International Conference, {DS} 2001,
+  Washington, DC, USA, November 25-28, 2001, Proceedings}, volume 2226 of {\em
+  Lecture Notes in Computer Science}. Springer, 2001.
+
+\bibitem{DBLP:conf/seqlearn/2001}
+Ron Sun and C.~Lee Giles, editors.
+\newblock {\em Sequence Learning - Paradigms, Algorithms, and Applications},
+  volume 1828 of {\em Lecture Notes in Computer Science}. Springer, 2001.
+
+\bibitem{DBLP:conf/aaai/2000}
+Henry~A. Kautz and Bruce~W. Porter, editors.
+\newblock {\em Proceedings of the Seventeenth National Conference on Artificial
+  Intelligence and Twelfth Conference on on Innovative Applications of
+  Artificial Intelligence, July 30 - August 3, 2000, Austin, Texas, {USA}}.
+  {AAAI} Press / The {MIT} Press, 2000.
+
+\bibitem{DBLP:conf/agents/2000}
+Carles Sierra, Maria~L. Gini, and Jeffrey~S. Rosenschein, editors.
+\newblock {\em Proceedings of the Fourth International Conference on Autonomous
+  Agents, {AGENTS} 2000, Barcelona, Catalonia, Spain, June 3-7, 2000}. {ACM},
+  2000.
+
+\bibitem{DBLP:conf/aips/2000}
+Steve~A. Chien, Subbarao Kambhampati, and Craig~A. Knoblock, editors.
+\newblock {\em Proceedings of the Fifth International Conference on Artificial
+  Intelligence Planning Systems, Breckenridge, CO, USA, April 14-17, 2000}.
+  {AAAI}, 2000.
+
+\bibitem{DBLP:conf/aaai/1999}
+Jim Hendler and Devika Subramanian, editors.
+\newblock {\em Proceedings of the Sixteenth National Conference on Artificial
+  Intelligence and Eleventh Conference on Innovative Applications of Artificial
+  Intelligence, July 18-22, 1999, Orlando, Florida, {USA}}. {AAAI} Press / The
+  {MIT} Press, 1999.
+
+\bibitem{DBLP:conf/aistats/1999}
+David Heckerman and Joe Whittaker, editors.
+\newblock {\em Proceedings of the Seventh International Workshop on Artificial
+  Intelligence and Statistics, {AISTATS} 1999, Fort Lauderdale, Florida, USA,
+  January 3-6, 1999}. Society for Artificial Intelligence and Statistics, 1999.
+
+\bibitem{DBLP:conf/ijcai/99}
+Thomas Dean, editor.
+\newblock {\em Proceedings of the Sixteenth International Joint Conference on
+  Artificial Intelligence, {IJCAI} 99, Stockholm, Sweden, July 31 - August 6,
+  1999. 2 Volumes, 1450 pages}. Morgan Kaufmann, 1999.
+
+\bibitem{DBLP:conf/kdd/1999}
+Usama~M. Fayyad, Surajit Chaudhuri, and David Madigan, editors.
+\newblock {\em Proceedings of the Fifth {ACM} {SIGKDD} International Conference
+  on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18,
+  1999}. {ACM}, 1999.
+
+\bibitem{DBLP:conf/icgi/1998}
+Vasant~G. Honavar and Giora Slutzki, editors.
+\newblock {\em Grammatical Inference, 4th International Colloquium, ICGI-98,
+  Ames, Iowa, USA, July 12-14, 1998, Proceedings}, volume 1433 of {\em Lecture
+  Notes in Computer Science}. Springer, 1998.
+
+\bibitem{DBLP:conf/kdd/1998}
+Rakesh Agrawal, Paul~E. Stolorz, and Gregory Piatetsky{-}Shapiro, editors.
+\newblock {\em Proceedings of the Fourth International Conference on Knowledge
+  Discovery and Data Mining (KDD-98), New York City, New York, USA, August
+  27-31, 1998}. {AAAI} Press, 1998.
+
+\bibitem{DBLP:conf/agents/1997}
+W.~Lewis Johnson, editor.
+\newblock {\em Proceedings of the First International Conference on Autonomous
+  Agents, {AGENTS} 1997, Marina del Rey, California, USA, February 5-8, 1997}.
+  {ACM}, 1997.
+
+\bibitem{DBLP:conf/ecml/1997}
+Maarten van Someren and Gerhard Widmer, editors.
+\newblock {\em Machine Learning: ECML-97, 9th European Conference on Machine
+  Learning, Prague, Czech Republic, April 23-25, 1997, Proceedings}, volume
+  1224 of {\em Lecture Notes in Computer Science}. Springer, 1997.
+
+\bibitem{DBLP:conf/icml/1997}
+Douglas~H. Fisher, editor.
+\newblock {\em Proceedings of the Fourteenth International Conference on
+  Machine Learning {(ICML} 1997), Nashville, Tennessee, USA, July 8-12, 1997}.
+  Morgan Kaufmann, 1997.
+
+\bibitem{DBLP:conf/ida/1997}
+Xiaohui Liu, Paul~R. Cohen, and Michael~R. Berthold, editors.
+\newblock {\em Advances in Intelligent Data Analysis, Reasoning about Data,
+  Second International Symposium, IDA-97, London, UK, August 4-6, 1997,
+  Proceedings}, volume 1280 of {\em Lecture Notes in Computer Science}.
+  Springer, 1997.
+
+\bibitem{DBLP:conf/aaai/1996-1}
+William~J. Clancey and Daniel~S. Weld, editors.
+\newblock {\em Proceedings of the Thirteenth National Conference on Artificial
+  Intelligence and Eighth Innovative Applications of Artificial Intelligence
+  Conference, {AAAI} 96, {IAAI} 96, Portland, Oregon, USA, August 4-8, 1996,
+  Volume 1}. {AAAI} Press / The {MIT} Press, 1996.
+
+\bibitem{DBLP:conf/icml/1996}
+Lorenza Saitta, editor.
+\newblock {\em Machine Learning, Proceedings of the Thirteenth International
+  Conference {(ICML} '96), Bari, Italy, July 3-6, 1996}. Morgan Kaufmann, 1996.
+
+\bibitem{DBLP:conf/aistats/1995}
+Doug Fisher and Hans{-}Joachim Lenz, editors.
+\newblock {\em Learning from Data - Fifth International Workshop on Artificial
+  Intelligence and Statistics, {AISTATS} 1995, Key West, Florida, USA, January,
+  1995. Proceedings}. Springer, 1996.
+
+\bibitem{DBLP:conf/ictai/1995}
+{\em Seventh International Conference on Tools with Artificial Intelligence,
+  {ICTAI} '95, Herndon, VA, USA, November 5-8, 1995}. {IEEE} Computer Society,
+  1995.
+
+\bibitem{DBLP:conf/aips/1994}
+Kristian~J. Hammond, editor.
+\newblock {\em Proceedings of the Second International Conference on Artificial
+  Intelligence Planning Systems, University of Chicago, Chicago, Illinois, USA,
+  June 13-15, 1994}. {AAAI}, 1994.
+
+\end{thebibliography}
